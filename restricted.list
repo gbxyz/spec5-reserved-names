@@ -1,0 +1,1996 @@
+                              word                               |                          reason                          
+-----------------------------------------------------------------+----------------------------------------------------------
+ test                                                            | RFC-6761 section 6.2
+ localhost                                                       | RFC-6761 section 6.3
+ invalid                                                         | RFC-6761 section 6.4
+ example                                                         | IANA Reserved
+ arpa                                                            | Infrastructure TLD
+ www                                                             | Registrations for Registry Operations - Spec 5 Section 3
+ rdds                                                            | Registrations for Registry Operations - Spec 5 Section 3
+ whois                                                           | Registrations for Registry Operations - Spec 5 Section 3
+ nic                                                             | Registrations for Registry Operations - Spec 5 Section 3
+ olympic                                                         | International Olympic Comitee
+ olympiad                                                        | International Olympic Comitee
+ olympique                                                       | International Olympic Comitee
+ olympiade                                                       | International Olympic Comitee
+ olympisch                                                       | International Olympic Comitee
+ olímpico                                                        | International Olympic Comitee
+ olimpíada                                                       | International Olympic Comitee
+ أوليمبي                                                         | International Olympic Comitee
+ أوليمبياد                                                       | International Olympic Comitee
+ 奥林匹克                                                        | International Olympic Comitee
+ 奥林匹亚                                                        | International Olympic Comitee
+ 奧林匹克                                                        | International Olympic Comitee
+ 奧林匹亞                                                        | International Olympic Comitee
+ ολυμπιακοί                                                      | International Olympic Comitee
+ ολυμπιάδα                                                       | International Olympic Comitee
+ 올림픽                                                          | International Olympic Comitee
+ 올림피아드                                                      | International Olympic Comitee
+ олимпийский                                                     | International Olympic Comitee
+ олимпиада                                                       | International Olympic Comitee
+ redcross                                                        | International Red Cross / Red Crescent
+ red-cross                                                       | International Red Cross / Red Crescent
+ redcrescent                                                     | International Red Cross / Red Crescent
+ red-crescent                                                    | International Red Cross / Red Crescent
+ redcrystal                                                      | International Red Cross / Red Crescent
+ red-crystal                                                     | International Red Cross / Red Crescent
+ redlionandsun                                                   | International Red Cross / Red Crescent
+ red-lion-and-sun                                                | International Red Cross / Red Crescent
+ magendavidadom                                                  | International Red Cross / Red Crescent
+ magen-david-adom                                                | International Red Cross / Red Crescent
+ redstarofdavid                                                  | International Red Cross / Red Crescent
+ red-star-of-david                                               | International Red Cross / Red Crescent
+ croixrouge                                                      | International Red Cross / Red Crescent
+ croix-rouge                                                     | International Red Cross / Red Crescent
+ croissantrouge                                                  | International Red Cross / Red Crescent
+ croissant-rouge                                                 | International Red Cross / Red Crescent
+ cristalrouge                                                    | International Red Cross / Red Crescent
+ cristal-rouge                                                   | International Red Cross / Red Crescent
+ lionetsoleilrouge                                               | International Red Cross / Red Crescent
+ lion-et-soleil-rouge                                            | International Red Cross / Red Crescent
+ lionetsoleilrouges                                              | International Red Cross / Red Crescent
+ lion-et-soleil-rouges                                           | International Red Cross / Red Crescent
+ cruzroja                                                        | International Red Cross / Red Crescent
+ cruz-roja                                                       | International Red Cross / Red Crescent
+ medialunaroja                                                   | International Red Cross / Red Crescent
+ media-luna-roja                                                 | International Red Cross / Red Crescent
+ cristalrojo                                                     | International Red Cross / Red Crescent
+ cristal-rojo                                                    | International Red Cross / Red Crescent
+ leónysolrojos                                                   | International Red Cross / Red Crescent
+ león-y-sol-rojos                                                | International Red Cross / Red Crescent
+ красныйкрест                                                    | International Red Cross / Red Crescent
+ красный-крест                                                   | International Red Cross / Red Crescent
+ красныйполумесяц                                                | International Red Cross / Red Crescent
+ красный-полумесяц                                               | International Red Cross / Red Crescent
+ красныйкристалл                                                 | International Red Cross / Red Crescent
+ красный-кристалл                                                | International Red Cross / Red Crescent
+ красныйлевисолнце                                               | International Red Cross / Red Crescent
+ красный-лев-и-солнце                                            | International Red Cross / Red Crescent
+ מגןדודאדום                                                      | International Red Cross / Red Crescent
+ מגן-דוד-אדום                                                    | International Red Cross / Red Crescent
+ מגן-דודאדום                                                     | International Red Cross / Red Crescent
+ الصليب-الأحمر                                                   | International Red Cross / Red Crescent
+ الهلال-الأحمر                                                   | International Red Cross / Red Crescent
+ الكريستالة-البلورة-الحمراء                                      | International Red Cross / Red Crescent
+ الأسد-و-الشمس-الحمراوان                                         | International Red Cross / Red Crescent
+ 红十字                                                          | International Red Cross / Red Crescent
+ 红新月                                                          | International Red Cross / Red Crescent
+ 红水晶                                                          | International Red Cross / Red Crescent
+ 红狮与太阳                                                      | International Red Cross / Red Crescent
+ 红-十-字                                                        | International Red Cross / Red Crescent
+ 红-新-月                                                        | International Red Cross / Red Crescent
+ 红-水-晶                                                        | International Red Cross / Red Crescent
+ 红-狮-与-太-阳                                                  | International Red Cross / Red Crescent
+ 红-十字                                                         | International Red Cross / Red Crescent
+ 红-新月                                                         | International Red Cross / Red Crescent
+ 红-水晶                                                         | International Red Cross / Red Crescent
+ 红狮-与-太阳                                                    | International Red Cross / Red Crescent
+ icrc                                                            | International Red Cross / Red Crescent
+ cicr                                                            | International Red Cross / Red Crescent
+ ifrc                                                            | International Red Cross / Red Crescent
+ ficr                                                            | International Red Cross / Red Crescent
+ aalco                                                           | Intergovernmental Organization
+ acp                                                             | Intergovernmental Organization
+ acs                                                             | Intergovernmental Organization
+ acto                                                            | Intergovernmental Organization
+ adb                                                             | Intergovernmental Organization
+ afdb                                                            | Intergovernmental Organization
+ african-caribbean-and-pacific-group-of-states                   | Intergovernmental Organization
+ african-development-bank                                        | Intergovernmental Organization
+ eapo                                                            | Intergovernmental Organization
+ african-intellectual-property-organization                      | Intergovernmental Organization
+ african-petroleum-producers-association                         | Intergovernmental Organization
+ african-regional-intellectual-property-organization             | Intergovernmental Organization
+ african-union                                                   | Intergovernmental Organization
+ africancaribbeanandpacificgroupofstates                         | Intergovernmental Organization
+ africandevelopmentbank                                          | Intergovernmental Organization
+ africanintellectualpropertyorganization                         | Intergovernmental Organization
+ africanpetroleumproducersassociation                            | Intergovernmental Organization
+ africanregionalintellectualpropertyorganization                 | Intergovernmental Organization
+ africanunion                                                    | Intergovernmental Organization
+ aipo                                                            | Intergovernmental Organization
+ aladi                                                           | Intergovernmental Organization
+ amazon-cooperation-treaty-organization                          | Intergovernmental Organization
+ amazoncooperationtreatyorganization                             | Intergovernmental Organization
+ andean-community                                                | Intergovernmental Organization
+ andean-development-corporation                                  | Intergovernmental Organization
+ andeancommunity                                                 | Intergovernmental Organization
+ andeandevelopmentcorporation                                    | Intergovernmental Organization
+ apo                                                             | Intergovernmental Organization
+ appa                                                            | Intergovernmental Organization
+ aripo                                                           | Intergovernmental Organization
+ asean                                                           | Intergovernmental Organization
+ asean-promotion-centre-on-trade-investment-and-tourism          | Intergovernmental Organization
+ aseanpromotioncentreontradeinvestmentandtourism                 | Intergovernmental Organization
+ asian-african-legal-consultative-organization                   | Intergovernmental Organization
+ asian-africanlegalconsultativeorganization                      | Intergovernmental Organization
+ asian-development-bank                                          | Intergovernmental Organization
+ asian-productivity-organization                                 | Intergovernmental Organization
+ asiandevelopmentbank                                            | Intergovernmental Organization
+ asianproductivityorganization                                   | Intergovernmental Organization
+ association-of-caribbean-states                                 | Intergovernmental Organization
+ association-of-southeast-asian-nations                          | Intergovernmental Organization
+ associationofcaribbeanstates                                    | Intergovernmental Organization
+ associationofsoutheastasiannations                              | Intergovernmental Organization
+ au                                                              | Intergovernmental Organization
+ bank-for-international-settlements                              | Intergovernmental Organization
+ bankforinternationalsettlements                                 | Intergovernmental Organization
+ bceao                                                           | Intergovernmental Organization
+ benelux                                                         | Intergovernmental Organization
+ benelux-organization-for-intellectual-property                  | Intergovernmental Organization
+ beneluxorganizationforintellectualproperty                      | Intergovernmental Organization
+ bie                                                             | Intergovernmental Organization
+ bipm                                                            | Intergovernmental Organization
+ bis                                                             | Intergovernmental Organization
+ black-sea-trade-and-development-bank                            | Intergovernmental Organization
+ blackseatradeanddevelopmentbank                                 | Intergovernmental Organization
+ boip                                                            | Intergovernmental Organization
+ bsec                                                            | Intergovernmental Organization
+ bstdp                                                           | Intergovernmental Organization
+ bureau-international-des-poids-et-mesures                       | Intergovernmental Organization
+ bureauinternationaldespoidsetmesures                            | Intergovernmental Organization
+ caf                                                             | Intergovernmental Organization
+ can                                                             | Intergovernmental Organization
+ caribbean-community                                             | Intergovernmental Organization
+ caribbeancommunity                                              | Intergovernmental Organization
+ caricom                                                         | Intergovernmental Organization
+ carribean-telecommunications-union                              | Intergovernmental Organization
+ carribeantelecommunicationsunion                                | Intergovernmental Organization
+ ceb                                                             | Intergovernmental Organization
+ cen-sad                                                         | Intergovernmental Organization
+ central-american-integration-system                             | Intergovernmental Organization
+ central-bank-of-west-african-states                             | Intergovernmental Organization
+ centralamericanintegrationsystem                                | Intergovernmental Organization
+ centralbankofwestafricanstates                                  | Intergovernmental Organization
+ cept                                                            | Intergovernmental Organization
+ cern                                                            | Intergovernmental Organization
+ cfc                                                             | Intergovernmental Organization
+ cica                                                            | Intergovernmental Organization
+ ciheam                                                          | Intergovernmental Organization
+ cis                                                             | Intergovernmental Organization
+ coe                                                             | Intergovernmental Organization
+ coi                                                             | Intergovernmental Organization
+ collective-security-treaty-organization                         | Intergovernmental Organization
+ collectivesecuritytreatyorganization                            | Intergovernmental Organization
+ comesa                                                          | Intergovernmental Organization
+ common-fund-for-commodities                                     | Intergovernmental Organization
+ commonfundforcommodities                                        | Intergovernmental Organization
+ commonwealth                                                    | Intergovernmental Organization
+ commonwealth-of-independent-states                              | Intergovernmental Organization
+ commonwealthofindependentstates                                 | Intergovernmental Organization
+ community-of-sahel-saharan-states                               | Intergovernmental Organization
+ communityofsahel-saharanstates                                  | Intergovernmental Organization
+ conferenceoninteractionandconfidencebuildingmeasuresinasia      | Intergovernmental Organization
+ cooperation-council-for-the-arab-states-of-the-gulf             | Intergovernmental Organization
+ cooperationcouncilforthearabstatesofthegulf                     | Intergovernmental Organization
+ council-of-europe                                               | Intergovernmental Organization
+ council-of-europe-development-bank                              | Intergovernmental Organization
+ councilofeurope                                                 | Intergovernmental Organization
+ councilofeuropedevelopmentbank                                  | Intergovernmental Organization
+ cplp                                                            | Intergovernmental Organization
+ csto                                                            | Intergovernmental Organization
+ ctbto                                                           | Intergovernmental Organization
+ ctu                                                             | Intergovernmental Organization
+ eabr                                                            | Intergovernmental Organization
+ eac                                                             | Intergovernmental Organization
+ east-african-community                                          | Intergovernmental Organization
+ eastafricancommunity                                            | Intergovernmental Organization
+ ebrd                                                            | Intergovernmental Organization
+ ec                                                              | Intergovernmental Organization
+ ecb                                                             | Intergovernmental Organization
+ eccas                                                           | Intergovernmental Organization
+ ecmt                                                            | Intergovernmental Organization
+ ecmwf                                                           | Intergovernmental Organization
+ eco                                                             | Intergovernmental Organization
+ economic-community-of-central-african-states                    | Intergovernmental Organization
+ economic-community-of-west-african-states                       | Intergovernmental Organization
+ economic-cooperation-organization                               | Intergovernmental Organization
+ economiccommunityofcentralafricanstates                         | Intergovernmental Organization
+ economiccommunityofwestafricanstates                            | Intergovernmental Organization
+ economiccooperationorganization                                 | Intergovernmental Organization
+ ecowas                                                          | Intergovernmental Organization
+ eeas                                                            | Intergovernmental Organization
+ efi                                                             | Intergovernmental Organization
+ efta                                                            | Intergovernmental Organization
+ efta-court                                                      | Intergovernmental Organization
+ efta-surveillance-authority                                     | Intergovernmental Organization
+ eftacourt                                                       | Intergovernmental Organization
+ eftasurv                                                        | Intergovernmental Organization
+ eftasurveillanceauthority                                       | Intergovernmental Organization
+ eib                                                             | Intergovernmental Organization
+ embl                                                            | Intergovernmental Organization
+ encharter                                                       | Intergovernmental Organization
+ energy-charter-conference                                       | Intergovernmental Organization
+ energycharterconference                                         | Intergovernmental Organization
+ ep                                                              | Intergovernmental Organization
+ epo                                                             | Intergovernmental Organization
+ esa                                                             | Intergovernmental Organization
+ eso                                                             | Intergovernmental Organization
+ eu                                                              | Intergovernmental Organization
+ euclid                                                          | Intergovernmental Organization
+ euclid-university                                               | Intergovernmental Organization
+ eucliduniversity                                                | Intergovernmental Organization
+ euco                                                            | Intergovernmental Organization
+ eurasec                                                         | Intergovernmental Organization
+ eurasian-development-bank                                       | Intergovernmental Organization
+ eurasian-economic-community                                     | Intergovernmental Organization
+ eurasian-patent-organization                                    | Intergovernmental Organization
+ eurasiandevelopmentbank                                         | Intergovernmental Organization
+ eurasianeconomiccommunity                                       | Intergovernmental Organization
+ eurasianpatentorganization                                      | Intergovernmental Organization
+ euratom                                                         | Intergovernmental Organization
+ eurocontrol                                                     | Intergovernmental Organization
+ european-atomic-energy-community                                | Intergovernmental Organization
+ european-bank-for-reconstruction-and-development                | Intergovernmental Organization
+ european-central-bank                                           | Intergovernmental Organization
+ european-centre-for-medium-range-weather-forecasts              | Intergovernmental Organization
+ european-commission                                             | Intergovernmental Organization
+ european-conference-of-ministers-of-transport                   | Intergovernmental Organization
+ european-council                                                | Intergovernmental Organization
+ european-external-action-service                                | Intergovernmental Organization
+ european-forest-institute                                       | Intergovernmental Organization
+ european-free-trade-association                                 | Intergovernmental Organization
+ european-investment-bank                                        | Intergovernmental Organization
+ european-molecular-biology-laboratory                           | Intergovernmental Organization
+ european-organisation-for-the-safety-of-air-navigation          | Intergovernmental Organization
+ european-organization-for-nuclear-research                      | Intergovernmental Organization
+ european-parliament                                             | Intergovernmental Organization
+ european-patent-office                                          | Intergovernmental Organization
+ european-patent-organisation                                    | Intergovernmental Organization
+ european-police-office                                          | Intergovernmental Organization
+ european-space-agency                                           | Intergovernmental Organization
+ european-union                                                  | Intergovernmental Organization
+ europeanatomicenergycommunity                                   | Intergovernmental Organization
+ europeanbankforreconstructionanddevelopment                     | Intergovernmental Organization
+ europeancentralbank                                             | Intergovernmental Organization
+ europeancentreformedium-rangeweatherforecasts                   | Intergovernmental Organization
+ europeancommission                                              | Intergovernmental Organization
+ europeanconferenceofministersoftransport                        | Intergovernmental Organization
+ europeancouncil                                                 | Intergovernmental Organization
+ europeanexternalactionservice                                   | Intergovernmental Organization
+ europeanforestinstitute                                         | Intergovernmental Organization
+ europeanfreetradeassociation                                    | Intergovernmental Organization
+ europeaninvestmentbank                                          | Intergovernmental Organization
+ europeanmolecularbiologylaboratory                              | Intergovernmental Organization
+ europeanorganisationforthesafetyofairnavigation                 | Intergovernmental Organization
+ europeanorganizationfornuclearresearch                          | Intergovernmental Organization
+ europeanparliament                                              | Intergovernmental Organization
+ europeanpatentoffice                                            | Intergovernmental Organization
+ europeanpatentorganisation                                      | Intergovernmental Organization
+ europeanpoliceoffice                                            | Intergovernmental Organization
+ europeanspaceagency                                             | Intergovernmental Organization
+ europeanunion                                                   | Intergovernmental Organization
+ europol                                                         | Intergovernmental Organization
+ fao                                                             | Intergovernmental Organization
+ food-and-agriculture-organization-of-the-united-nations         | Intergovernmental Organization
+ foodandagricultureorganizationoftheunitednations                | Intergovernmental Organization
+ forumsec                                                        | Intergovernmental Organization
+ gcc                                                             | Intergovernmental Organization
+ guam                                                            | Intergovernmental Organization/ISO 3166-1-alpha-2 code
+ hague-conference-on-private-international-law                   | Intergovernmental Organization
+ oiv                                                             | Intergovernmental Organization
+ hagueconferenceonprivateinternationallaw                        | Intergovernmental Organization
+ hcch                                                            | Intergovernmental Organization
+ iaca                                                            | Intergovernmental Organization
+ iadb                                                            | Intergovernmental Organization
+ iaea                                                            | Intergovernmental Organization
+ ibrd                                                            | Intergovernmental Organization
+ icao                                                            | Intergovernmental Organization
+ icc-cpi                                                         | Intergovernmental Organization
+ icco                                                            | Intergovernmental Organization
+ icglr                                                           | Intergovernmental Organization
+ icj-cij                                                         | Intergovernmental Organization
+ icmpd                                                           | Intergovernmental Organization
+ ico                                                             | Intergovernmental Organization
+ icsid                                                           | Intergovernmental Organization
+ ida                                                             | Intergovernmental Organization
+ idb                                                             | Intergovernmental Organization
+ idea                                                            | Intergovernmental Organization
+ idlo                                                            | Intergovernmental Organization
+ iea                                                             | Intergovernmental Organization
+ ifad                                                            | Intergovernmental Organization
+ ifas                                                            | Intergovernmental Organization
+ ifc                                                             | Intergovernmental Organization
+ igad                                                            | Intergovernmental Organization
+ ihffc                                                           | Intergovernmental Organization
+ iho                                                             | Intergovernmental Organization
+ iic                                                             | Intergovernmental Organization
+ iila                                                            | Intergovernmental Organization
+ ijc                                                             | Intergovernmental Organization
+ ilo                                                             | Intergovernmental Organization
+ imf                                                             | Intergovernmental Organization
+ imo                                                             | Intergovernmental Organization
+ imso                                                            | Intergovernmental Organization
+ inter-american-development-bank                                 | Intergovernmental Organization
+ inter-american-investment-corporation                           | Intergovernmental Organization
+ inter-americandevelopmentbank                                   | Intergovernmental Organization
+ inter-americaninvestmentcorporation                             | Intergovernmental Organization
+ interelectro                                                    | Intergovernmental Organization
+ intergovernmental-authority-on-development                      | Intergovernmental Organization
+ intergovernmentalauthorityondevelopment                         | Intergovernmental Organization
+ international-anti-corruption-academy                           | Intergovernmental Organization
+ international-atomic-energy-agency                              | Intergovernmental Organization
+ international-centre-for-migration-policy-development           | Intergovernmental Organization
+ international-centre-for-settlement-of-investment-disputes      | Intergovernmental Organization
+ international-civil-aviation-organization                       | Intergovernmental Organization
+ international-cocoa-organization                                | Intergovernmental Organization
+ international-coffee-organization                               | Intergovernmental Organization
+ international-conference-on-the-great-lakes-region-of-africa    | Intergovernmental Organization
+ international-court-of-justice                                  | Intergovernmental Organization
+ international-criminal-court                                    | Intergovernmental Organization
+ international-criminal-police-organization-interpol             | Intergovernmental Organization
+ international-development-association                           | Intergovernmental Organization
+ international-development-law-organization                      | Intergovernmental Organization
+ international-energy-agency                                     | Intergovernmental Organization
+ international-exhibitions-bureau                                | Intergovernmental Organization
+ international-finance-corporation                               | Intergovernmental Organization
+ international-fund-for-agricultural-development                 | Intergovernmental Organization
+ international-fund-for-saving-the-aral-sea                      | Intergovernmental Organization
+ international-humanitarian-fact-finding-commission              | Intergovernmental Organization
+ international-hydrographic-organization                         | Intergovernmental Organization
+ international-institute-for-democracy-and-electoral-assistance  | Intergovernmental Organization
+ international-institute-for-the-unification-of-private-law      | Intergovernmental Organization
+ international-joint-commission                                  | Intergovernmental Organization
+ international-labour-organization                               | Intergovernmental Organization
+ international-maritime-organization                             | Intergovernmental Organization
+ international-mobile-satellite-organization                     | Intergovernmental Organization
+ international-monetary-fund                                     | Intergovernmental Organization
+ international-olive-oil-council                                 | Intergovernmental Organization
+ international-organization-for-migration                        | Intergovernmental Organization
+ international-renewable-energy-agency                           | Intergovernmental Organization
+ international-science-and-technology-center                     | Intergovernmental Organization
+ international-seabed-authority                                  | Intergovernmental Organization
+ international-sugar-organization                                | Intergovernmental Organization
+ international-telecommunication-union                           | Intergovernmental Organization
+ international-telecommunications-satellite-organization         | Intergovernmental Organization
+ international-trade-centre                                      | Intergovernmental Organization
+ international-transport-forum                                   | Intergovernmental Organization
+ international-tribunal-for-the-law-of-the-sea                   | Intergovernmental Organization
+ international-tropical-timber-organization                      | Intergovernmental Organization
+ international-whaling-commission                                | Intergovernmental Organization
+ internationalanti-corruptionacademy                             | Intergovernmental Organization
+ internationalatomicenergyagency                                 | Intergovernmental Organization
+ internationalcentreforadvancedmediterraneanagronomicstudies     | Intergovernmental Organization
+ internationalcentreformigrationpolicydevelopment                | Intergovernmental Organization
+ internationalcentreforsettlementofinvestmentdisputes            | Intergovernmental Organization
+ internationalcivilaviationorganization                          | Intergovernmental Organization
+ internationalcocoaorganization                                  | Intergovernmental Organization
+ internationalcoffeeorganization                                 | Intergovernmental Organization
+ internationalconferenceonthegreatlakesregionofafrica            | Intergovernmental Organization
+ internationalcourtofjustice                                     | Intergovernmental Organization
+ internationalcriminalcourt                                      | Intergovernmental Organization
+ internationalcriminalpoliceorganization-interpol                | Intergovernmental Organization
+ internationaldevelopmentassociation                             | Intergovernmental Organization
+ internationaldevelopmentlaworganization                         | Intergovernmental Organization
+ internationalenergyagency                                       | Intergovernmental Organization
+ internationalexhibitionsbureau                                  | Intergovernmental Organization
+ internationalfinancecorporation                                 | Intergovernmental Organization
+ internationalfundforagriculturaldevelopment                     | Intergovernmental Organization
+ internationalfundforsavingthearalsea                            | Intergovernmental Organization
+ internationalhumanitarianfact-findingcommission                 | Intergovernmental Organization
+ internationalhydrographicorganization                           | Intergovernmental Organization
+ internationalinstitutefordemocracyandelectoralassistance        | Intergovernmental Organization
+ internationalinstitutefortheunificationofprivatelaw             | Intergovernmental Organization
+ internationaljointcommission                                    | Intergovernmental Organization
+ internationallabourorganization                                 | Intergovernmental Organization
+ internationalmaritimeorganization                               | Intergovernmental Organization
+ internationalmobilesatelliteorganization                        | Intergovernmental Organization
+ internationalmonetaryfund                                       | Intergovernmental Organization
+ internationaloliveoilcouncil                                    | Intergovernmental Organization
+ internationalorganizationformigration                           | Intergovernmental Organization
+ internationalrenewableenergyagency                              | Intergovernmental Organization
+ internationalscienceandtechnologycenter                         | Intergovernmental Organization
+ internationalseabedauthority                                    | Intergovernmental Organization
+ internationalsugarorganization                                  | Intergovernmental Organization
+ internationaltelecommunicationssatelliteorganization            | Intergovernmental Organization
+ internationaltelecommunicationunion                             | Intergovernmental Organization
+ internationaltradecentre                                        | Intergovernmental Organization
+ internationaltransportforum                                     | Intergovernmental Organization
+ internationaltribunalforthelawofthesea                          | Intergovernmental Organization
+ internationaltropicaltimberorganization                         | Intergovernmental Organization
+ internationalunionfortheconservationofnatureandnaturalresources | Intergovernmental Organization
+ internationalunionfortheprotectionofnewvarietiesofplants        | Intergovernmental Organization
+ internationalwhalingcommission                                  | Intergovernmental Organization
+ interpol                                                        | Intergovernmental Organization
+ intracen                                                        | Intergovernmental Organization
+ iom                                                             | Intergovernmental Organization
+ iooc                                                            | Intergovernmental Organization
+ irena                                                           | Intergovernmental Organization
+ isa                                                             | Intergovernmental Organization
+ islamic-development-bank-group                                  | Intergovernmental Organization
+ islamicdevelopmentbankgroup                                     | Intergovernmental Organization
+ iso                                                             | Intergovernmental Organization
+ istc                                                            | Intergovernmental Organization
+ italian-latin-american-institute                                | Intergovernmental Organization
+ italian-latinamericaninstitute                                  | Intergovernmental Organization
+ iter                                                            | Intergovernmental Organization
+ iter-international-fusion-energy-organization                   | Intergovernmental Organization
+ iterinternationalfusionenergyorganization                       | Intergovernmental Organization
+ itf                                                             | Intergovernmental Organization
+ itlos                                                           | Intergovernmental Organization
+ itso                                                            | Intergovernmental Organization
+ itto                                                            | Intergovernmental Organization
+ itu                                                             | Intergovernmental Organization
+ iucn                                                            | Intergovernmental Organization
+ iwc                                                             | Intergovernmental Organization
+ joint-united-nations-programme-on-hiv-aids                      | Intergovernmental Organization
+ jointunitednationsprogrammeonhivaids                            | Intergovernmental Organization
+ las                                                             | Intergovernmental Organization
+ latin-american-and-caribbean-economic-system                    | Intergovernmental Organization
+ latin-american-parliament                                       | Intergovernmental Organization
+ latinamericanandcaribbeaneconomicsystem                         | Intergovernmental Organization
+ latinamericanparliament                                         | Intergovernmental Organization
+ league-of-arab-states                                           | Intergovernmental Organization
+ leagueofarabstates                                              | Intergovernmental Organization
+ mekong-river-commission                                         | Intergovernmental Organization
+ mekongrivercommission                                           | Intergovernmental Organization
+ mercosur                                                        | Intergovernmental Organization
+ miga                                                            | Intergovernmental Organization
+ mrc                                                             | Intergovernmental Organization
+ multilateral-investment-guarantee-agency                        | Intergovernmental Organization
+ multilateralinvestmentguaranteeagency                           | Intergovernmental Organization
+ nasco                                                           | Intergovernmental Organization
+ nato                                                            | Intergovernmental Organization
+ nib                                                             | Intergovernmental Organization
+ nordic-investment-bank                                          | Intergovernmental Organization
+ nordic-patent-institute                                         | Intergovernmental Organization
+ nordicinvestmentbank                                            | Intergovernmental Organization
+ nordicpatentinstitute                                           | Intergovernmental Organization
+ north-atlantic-salmon-conservation-organization                 | Intergovernmental Organization
+ north-atlantic-treaty-organization                              | Intergovernmental Organization
+ north-pacific-marine-science-organization                       | Intergovernmental Organization
+ northatlanticsalmonconservationorganization                     | Intergovernmental Organization
+ northatlantictreatyorganization                                 | Intergovernmental Organization
+ northpacificmarinescienceorganization                           | Intergovernmental Organization
+ npi                                                             | Intergovernmental Organization
+ oas                                                             | Intergovernmental Organization
+ occar                                                           | Intergovernmental Organization
+ oecd                                                            | Intergovernmental Organization
+ oecs                                                            | Intergovernmental Organization
+ ofid                                                            | Intergovernmental Organization
+ ohada                                                           | Intergovernmental Organization
+ oic                                                             | Intergovernmental Organization
+ oie                                                             | Intergovernmental Organization
+ oif                                                             | Intergovernmental Organization
+ opanal                                                          | Intergovernmental Organization
+ opcw                                                            | Intergovernmental Organization
+ opec                                                            | Intergovernmental Organization
+ organisation-for-economic-co-operation-and-development          | Intergovernmental Organization
+ organisation-for-joint-armament-co-operation                    | Intergovernmental Organization
+ organisation-for-the-harmonisation-of-business-law-in-africa    | Intergovernmental Organization
+ organisation-for-the-prohibition-of-chemical-weapons            | Intergovernmental Organization
+ organisation-internationale-de-la-francophonie                  | Intergovernmental Organization
+ organisation-internationale-de-la-vigne-et-du-vin               | Intergovernmental Organization
+ organisation-of-eastern-caribbean-states                        | Intergovernmental Organization
+ organisation-of-islamic-cooperation                             | Intergovernmental Organization
+ organisationforeconomicco-operationanddevelopment               | Intergovernmental Organization
+ organisationforjointarmamentco-operation                        | Intergovernmental Organization
+ organisationfortheharmonisationofbusinesslawinafrica            | Intergovernmental Organization
+ organisationfortheprohibitionofchemicalweapons                  | Intergovernmental Organization
+ organisationinternationaledelafrancophonie                      | Intergovernmental Organization
+ organisationinternationaledelavigneetduvin                      | Intergovernmental Organization
+ organisationofeasterncaribbeanstates                            | Intergovernmental Organization
+ organisationofislamiccooperation                                | Intergovernmental Organization
+ organization-for-democracy-and-economic-development             | Intergovernmental Organization
+ organization-for-security-and-co-operation-in-europe            | Intergovernmental Organization
+ organization-of-american-states                                 | Intergovernmental Organization
+ organization-of-the-black-sea-economic-cooperation              | Intergovernmental Organization
+ organization-of-the-petroleum-exporting-countries               | Intergovernmental Organization
+ organizationfordemocracyandeconomicdevelopment                  | Intergovernmental Organization
+ organizationforsecurityandco-operationineurope                  | Intergovernmental Organization
+ organizationofamericanstates                                    | Intergovernmental Organization
+ organizationoftheblackseaeconomiccooperation                    | Intergovernmental Organization
+ organizationofthepetroleumexportingcountries                    | Intergovernmental Organization
+ osce                                                            | Intergovernmental Organization
+ pacific-community                                               | Intergovernmental Organization
+ pacific-islands-forum                                           | Intergovernmental Organization
+ pacificcommunity                                                | Intergovernmental Organization
+ pacificislandsforum                                             | Intergovernmental Organization
+ paho                                                            | Intergovernmental Organization
+ pam                                                             | Intergovernmental Organization
+ pan-american-health-organization                                | Intergovernmental Organization
+ panamericanhealthorganization                                   | Intergovernmental Organization
+ parlatino                                                       | Intergovernmental Organization
+ parliamentary-assembly-of-the-mediterranean                     | Intergovernmental Organization
+ parliamentaryassemblyofthemediterranean                         | Intergovernmental Organization
+ partners-in-population-and-development                          | Intergovernmental Organization
+ partnersinpopulationanddevelopment                              | Intergovernmental Organization
+ pca                                                             | Intergovernmental Organization
+ permanent-court-of-arbitration                                  | Intergovernmental Organization
+ permanentcourtofarbitration                                     | Intergovernmental Organization
+ pices                                                           | Intergovernmental Organization
+ postal-union-of-the-americas-spain-and-portugal                 | Intergovernmental Organization
+ postalunionoftheamericasspainandportugal                        | Intergovernmental Organization
+ ppd                                                             | Intergovernmental Organization
+ puasp                                                           | Intergovernmental Organization
+ recsa                                                           | Intergovernmental Organization
+ saarc                                                           | Intergovernmental Organization
+ sadc                                                            | Intergovernmental Organization
+ sco                                                             | Intergovernmental Organization
+ sela                                                            | Intergovernmental Organization
+ shanghai-cooperation-organisation                               | Intergovernmental Organization
+ shanghaicooperationorganisation                                 | Intergovernmental Organization
+ sica                                                            | Intergovernmental Organization
+ south-asian-association-for-regional-cooperation                | Intergovernmental Organization
+ south-centre                                                    | Intergovernmental Organization
+ southasianassociationforregionalcooperation                     | Intergovernmental Organization
+ southcentre                                                     | Intergovernmental Organization
+ southern-african-development-community                          | Intergovernmental Organization
+ southernafricandevelopmentcommunity                             | Intergovernmental Organization
+ spc                                                             | Intergovernmental Organization
+ the-common-market-for-eastern-and-southern-africa               | Intergovernmental Organization
+ the-commonwealth                                                | Intergovernmental Organization
+ the-opec-fund-for-international-development                     | Intergovernmental Organization
+ thecommonmarketforeasternandsouthernafrica                      | Intergovernmental Organization
+ thecommonwealth                                                 | Intergovernmental Organization
+ theopecfundforinternationaldevelopment                          | Intergovernmental Organization
+ uemoa                                                           | Intergovernmental Organization
+ un                                                              | Intergovernmental Organization
+ un-habitat                                                      | Intergovernmental Organization
+ unaids                                                          | Intergovernmental Organization
+ unasur                                                          | Intergovernmental Organization
+ unccd                                                           | Intergovernmental Organization
+ unctad                                                          | Intergovernmental Organization
+ undp                                                            | Intergovernmental Organization
+ unep                                                            | Intergovernmental Organization
+ unesco                                                          | Intergovernmental Organization
+ unfccc                                                          | Intergovernmental Organization
+ unfpa                                                           | Intergovernmental Organization
+ unhcr                                                           | Intergovernmental Organization
+ unicc                                                           | Intergovernmental Organization
+ unicef                                                          | Intergovernmental Organization
+ unido                                                           | Intergovernmental Organization
+ unidroit                                                        | Intergovernmental Organization
+ union-benelux                                                   | Intergovernmental Organization
+ union-of-south-american-nations                                 | Intergovernmental Organization
+ unionbenelux                                                    | Intergovernmental Organization
+ unionofsouthamericannations                                     | Intergovernmental Organization
+ united-nations                                                  | Intergovernmental Organization
+ united-nations-children-s-fund                                  | Intergovernmental Organization
+ united-nations-conference-on-trade-and-development              | Intergovernmental Organization
+ united-nations-development-programme                            | Intergovernmental Organization
+ united-nations-environment-programme                            | Intergovernmental Organization
+ united-nations-framework-convention-on-climate-change           | Intergovernmental Organization
+ united-nations-human-settlements-programme                      | Intergovernmental Organization
+ united-nations-industrial-development-organizaion               | Intergovernmental Organization
+ united-nations-international-computing-centre                   | Intergovernmental Organization
+ united-nations-office-for-project-services                      | Intergovernmental Organization
+ united-nations-population-fund                                  | Intergovernmental Organization
+ united-nations-university                                       | Intergovernmental Organization
+ unitednations                                                   | Intergovernmental Organization
+ unitednationschildrensfund                                      | Intergovernmental Organization
+ unitednationsconferenceontradeanddevelopment                    | Intergovernmental Organization
+ unitednationsdevelopmentprogramme                               | Intergovernmental Organization
+ unitednationseducationalscientificandculturalorganization       | Intergovernmental Organization
+ unitednationsentityforgenderequalityandtheempowermentofwomen    | Intergovernmental Organization
+ unitednationsenvironmentprogramme                               | Intergovernmental Organization
+ unitednationsframeworkconventiononclimatechange                 | Intergovernmental Organization
+ unitednationshighcommissionerforrefugeesunrefugeeagency         | Intergovernmental Organization
+ unitednationshumansettlementsprogramme                          | Intergovernmental Organization
+ unitednationsindustrialdevelopmentorganizaion                   | Intergovernmental Organization
+ unitednationsinternationalcomputingcentre                       | Intergovernmental Organization
+ unitednationsofficeforprojectservices                           | Intergovernmental Organization
+ unitednationspopulationfund                                     | Intergovernmental Organization
+ unitednationsuniversity                                         | Intergovernmental Organization
+ universal-postal-union                                          | Intergovernmental Organization
+ universalpostalunion                                            | Intergovernmental Organization
+ university-for-peace                                            | Intergovernmental Organization
+ universityforpeace                                              | Intergovernmental Organization
+ unops                                                           | Intergovernmental Organization
+ unrwa                                                           | Intergovernmental Organization
+ unu                                                             | Intergovernmental Organization
+ unwomen                                                         | Intergovernmental Organization
+ unwto                                                           | Intergovernmental Organization
+ upeace                                                          | Intergovernmental Organization
+ upov                                                            | Intergovernmental Organization
+ upu                                                             | Intergovernmental Organization
+ wco                                                             | Intergovernmental Organization
+ wfp                                                             | Intergovernmental Organization
+ who                                                             | Intergovernmental Organization
+ wipo                                                            | Intergovernmental Organization
+ wmo                                                             | Intergovernmental Organization
+ world-bank                                                      | Intergovernmental Organization
+ world-customs-organization                                      | Intergovernmental Organization
+ world-food-programme                                            | Intergovernmental Organization
+ world-health-organization                                       | Intergovernmental Organization
+ world-intellectual-property-organization                        | Intergovernmental Organization
+ world-meteorological-organization                               | Intergovernmental Organization
+ world-organisation-for-animal-health                            | Intergovernmental Organization
+ world-tourism-organization                                      | Intergovernmental Organization
+ world-trade-organization                                        | Intergovernmental Organization
+ worldbank                                                       | Intergovernmental Organization
+ worldcustomsorganization                                        | Intergovernmental Organization
+ worldfoodprogramme                                              | Intergovernmental Organization
+ worldhealthorganization                                         | Intergovernmental Organization
+ worldintellectualpropertyorganization                           | Intergovernmental Organization
+ worldmeteorologicalorganization                                 | Intergovernmental Organization
+ worldorganisationforanimalhealth                                | Intergovernmental Organization
+ worldtourismorganization                                        | Intergovernmental Organization
+ worldtradeorganization                                          | Intergovernmental Organization
+ wto                                                             | Intergovernmental Organization
+ asociación-latinoamericana-de-integración                       | Intergovernmental Organization
+ asociaciónlatinoamericanadeintegración                          | Intergovernmental Organization
+ commission-de-l-océan-indien                                    | Intergovernmental Organization
+ commissiondelocéanindien                                        | Intergovernmental Organization
+ comunidade-dos-países-de-língua-portuguesa                      | Intergovernmental Organization
+ comunidadedospaísesdelínguaportuguesa                           | Intergovernmental Organization
+ mercado-común-de-sur                                            | Intergovernmental Organization
+ mercadocomúndesur                                               | Intergovernmental Organization
+ union-economique-et-monétaire-ouest-africaine                   | Intergovernmental Organization
+ unioneconomiqueetmonétaireouestafricaine                        | Intergovernmental Organization
+ afghanistan                                                     | ISO 3166-1-alpha-2 code
+ ålandislands                                                    | ISO 3166-1-alpha-2 code
+ åland-islands                                                   | ISO 3166-1-alpha-2 code
+ albania                                                         | ISO 3166-1-alpha-2 code
+ algeria                                                         | ISO 3166-1-alpha-2 code
+ americansamoa                                                   | ISO 3166-1-alpha-2 code
+ american-samoa                                                  | ISO 3166-1-alpha-2 code
+ andorra                                                         | ISO 3166-1-alpha-2 code
+ angola                                                          | ISO 3166-1-alpha-2 code
+ anguilla                                                        | ISO 3166-1-alpha-2 code
+ antarctica                                                      | ISO 3166-1-alpha-2 code
+ antiguaandbarbuda                                               | ISO 3166-1-alpha-2 code
+ antigua-and-barbuda                                             | ISO 3166-1-alpha-2 code
+ argentina                                                       | ISO 3166-1-alpha-2 code
+ armenia                                                         | ISO 3166-1-alpha-2 code
+ aruba                                                           | ISO 3166-1-alpha-2 code
+ australia                                                       | ISO 3166-1-alpha-2 code
+ austria                                                         | ISO 3166-1-alpha-2 code
+ azerbaijan                                                      | ISO 3166-1-alpha-2 code
+ bahamas                                                         | ISO 3166-1-alpha-2 code
+ bahrain                                                         | ISO 3166-1-alpha-2 code
+ bangladesh                                                      | ISO 3166-1-alpha-2 code
+ barbados                                                        | ISO 3166-1-alpha-2 code
+ belarus                                                         | ISO 3166-1-alpha-2 code
+ belgium                                                         | ISO 3166-1-alpha-2 code
+ belize                                                          | ISO 3166-1-alpha-2 code
+ benin                                                           | ISO 3166-1-alpha-2 code
+ bermuda                                                         | ISO 3166-1-alpha-2 code
+ bhutan                                                          | ISO 3166-1-alpha-2 code
+ bolivia                                                         | ISO 3166-1-alpha-2 code
+ plurinationalstateofbolivia                                     | ISO 3166-1-alpha-2 code
+ plurinational-state-of-bolivia                                  | ISO 3166-1-alpha-2 code
+ bonaire                                                         | ISO 3166-1-alpha-2 code
+ sinteustatiusandsababonaire                                     | ISO 3166-1-alpha-2 code
+ sint-eustatius-and-saba-bonaire                                 | ISO 3166-1-alpha-2 code
+ bosniaandherzegovina                                            | ISO 3166-1-alpha-2 code
+ bosnia-and-herzegovina                                          | ISO 3166-1-alpha-2 code
+ botswana                                                        | ISO 3166-1-alpha-2 code
+ bouvetisland                                                    | ISO 3166-1-alpha-2 code
+ bouvet-island                                                   | ISO 3166-1-alpha-2 code
+ brazil                                                          | ISO 3166-1-alpha-2 code
+ britishindianoceanterritory                                     | ISO 3166-1-alpha-2 code
+ british-indian-ocean-territory                                  | ISO 3166-1-alpha-2 code
+ bruneidarussalam                                                | ISO 3166-1-alpha-2 code
+ brunei-darussalam                                               | ISO 3166-1-alpha-2 code
+ bulgaria                                                        | ISO 3166-1-alpha-2 code
+ burkinafaso                                                     | ISO 3166-1-alpha-2 code
+ burkina-faso                                                    | ISO 3166-1-alpha-2 code
+ burundi                                                         | ISO 3166-1-alpha-2 code
+ cambodia                                                        | ISO 3166-1-alpha-2 code
+ cameroon                                                        | ISO 3166-1-alpha-2 code
+ canada                                                          | ISO 3166-1-alpha-2 code
+ capeverde                                                       | ISO 3166-1-alpha-2 code
+ cape-verde                                                      | ISO 3166-1-alpha-2 code
+ caymanislands                                                   | ISO 3166-1-alpha-2 code
+ cayman-islands                                                  | ISO 3166-1-alpha-2 code
+ centralafricanrepublic                                          | ISO 3166-1-alpha-2 code
+ central-african-republic                                        | ISO 3166-1-alpha-2 code
+ chad                                                            | ISO 3166-1-alpha-2 code
+ chile                                                           | ISO 3166-1-alpha-2 code
+ china                                                           | ISO 3166-1-alpha-2 code
+ christmasisland                                                 | ISO 3166-1-alpha-2 code
+ christmas-island                                                | ISO 3166-1-alpha-2 code
+ cocosislands                                                    | ISO 3166-1-alpha-2 code
+ cocos-islands                                                   | ISO 3166-1-alpha-2 code
+ keelingislands                                                  | ISO 3166-1-alpha-2 code
+ keeling-islands                                                 | ISO 3166-1-alpha-2 code
+ colombia                                                        | ISO 3166-1-alpha-2 code
+ comoros                                                         | ISO 3166-1-alpha-2 code
+ congo                                                           | ISO 3166-1-alpha-2 code
+ thedemocraticrepublicofthecongo                                 | ISO 3166-1-alpha-2 code
+ the-democratic-republic-of-the-congo                            | ISO 3166-1-alpha-2 code
+ cookislands                                                     | ISO 3166-1-alpha-2 code
+ cook-islands                                                    | ISO 3166-1-alpha-2 code
+ costarica                                                       | ISO 3166-1-alpha-2 code
+ costa-rica                                                      | ISO 3166-1-alpha-2 code
+ côtedivoire                                                     | ISO 3166-1-alpha-2 code
+ côte-divoire                                                    | ISO 3166-1-alpha-2 code
+ croatia                                                         | ISO 3166-1-alpha-2 code
+ cuba                                                            | ISO 3166-1-alpha-2 code
+ curaçao                                                         | ISO 3166-1-alpha-2 code
+ cyprus                                                          | ISO 3166-1-alpha-2 code
+ czechrepublic                                                   | ISO 3166-1-alpha-2 code
+ czech-republic                                                  | ISO 3166-1-alpha-2 code
+ denmark                                                         | ISO 3166-1-alpha-2 code
+ djibouti                                                        | ISO 3166-1-alpha-2 code
+ dominica                                                        | ISO 3166-1-alpha-2 code
+ dominicanrepublic                                               | ISO 3166-1-alpha-2 code
+ dominican-republic                                              | ISO 3166-1-alpha-2 code
+ ecuador                                                         | ISO 3166-1-alpha-2 code
+ egypt                                                           | ISO 3166-1-alpha-2 code
+ elsalvador                                                      | ISO 3166-1-alpha-2 code
+ el-salvador                                                     | ISO 3166-1-alpha-2 code
+ equatorialguinea                                                | ISO 3166-1-alpha-2 code
+ equatorial-guinea                                               | ISO 3166-1-alpha-2 code
+ eritrea                                                         | ISO 3166-1-alpha-2 code
+ estonia                                                         | ISO 3166-1-alpha-2 code
+ ethiopia                                                        | ISO 3166-1-alpha-2 code
+ falklandislands                                                 | ISO 3166-1-alpha-2 code
+ falkland-islands                                                | ISO 3166-1-alpha-2 code
+ malvinas                                                        | ISO 3166-1-alpha-2 code
+ faroeislands                                                    | ISO 3166-1-alpha-2 code
+ faroe-islands                                                   | ISO 3166-1-alpha-2 code
+ fiji                                                            | ISO 3166-1-alpha-2 code
+ finland                                                         | ISO 3166-1-alpha-2 code
+ france                                                          | ISO 3166-1-alpha-2 code
+ frenchguiana                                                    | ISO 3166-1-alpha-2 code
+ french-guiana                                                   | ISO 3166-1-alpha-2 code
+ frenchpolynesia                                                 | ISO 3166-1-alpha-2 code
+ french-polynesia                                                | ISO 3166-1-alpha-2 code
+ frenchsouthernterritories                                       | ISO 3166-1-alpha-2 code
+ french-southern-territories                                     | ISO 3166-1-alpha-2 code
+ gabon                                                           | ISO 3166-1-alpha-2 code
+ gambia                                                          | ISO 3166-1-alpha-2 code
+ georgia                                                         | ISO 3166-1-alpha-2 code
+ germany                                                         | ISO 3166-1-alpha-2 code
+ ghana                                                           | ISO 3166-1-alpha-2 code
+ gibraltar                                                       | ISO 3166-1-alpha-2 code
+ greece                                                          | ISO 3166-1-alpha-2 code
+ greenland                                                       | ISO 3166-1-alpha-2 code
+ grenada                                                         | ISO 3166-1-alpha-2 code
+ guadeloupe                                                      | ISO 3166-1-alpha-2 code
+ guatemala                                                       | ISO 3166-1-alpha-2 code
+ guernsey                                                        | ISO 3166-1-alpha-2 code
+ guinea                                                          | ISO 3166-1-alpha-2 code
+ guinea-bissau                                                   | ISO 3166-1-alpha-2 code
+ guyana                                                          | ISO 3166-1-alpha-2 code
+ haiti                                                           | ISO 3166-1-alpha-2 code
+ heardislandandmcdonaldislands                                   | ISO 3166-1-alpha-2 code
+ heard-island-and-mcdonald-islands                               | ISO 3166-1-alpha-2 code
+ holysee                                                         | ISO 3166-1-alpha-2 code
+ holy-see                                                        | ISO 3166-1-alpha-2 code
+ vaticancitystate                                                | ISO 3166-1-alpha-2 code
+ vatican-city-state                                              | ISO 3166-1-alpha-2 code
+ vatican                                                         | ISO 3166-1-alpha-2 code
+ honduras                                                        | ISO 3166-1-alpha-2 code
+ hongkong                                                        | ISO 3166-1-alpha-2 code
+ hong-kong                                                       | ISO 3166-1-alpha-2 code
+ hungary                                                         | ISO 3166-1-alpha-2 code
+ iceland                                                         | ISO 3166-1-alpha-2 code
+ india                                                           | ISO 3166-1-alpha-2 code
+ indonesia                                                       | ISO 3166-1-alpha-2 code
+ iran                                                            | ISO 3166-1-alpha-2 code
+ islamicrepublicofiran                                           | ISO 3166-1-alpha-2 code
+ islamic-republic-of-iran                                        | ISO 3166-1-alpha-2 code
+ iraq                                                            | ISO 3166-1-alpha-2 code
+ ireland                                                         | ISO 3166-1-alpha-2 code
+ isleofman                                                       | ISO 3166-1-alpha-2 code
+ isle-of-man                                                     | ISO 3166-1-alpha-2 code
+ israel                                                          | ISO 3166-1-alpha-2 code
+ italy                                                           | ISO 3166-1-alpha-2 code
+ jamaica                                                         | ISO 3166-1-alpha-2 code
+ japan                                                           | ISO 3166-1-alpha-2 code
+ jersey                                                          | ISO 3166-1-alpha-2 code
+ jordan                                                          | ISO 3166-1-alpha-2 code
+ kazakhstan                                                      | ISO 3166-1-alpha-2 code
+ kenya                                                           | ISO 3166-1-alpha-2 code
+ kiribati                                                        | ISO 3166-1-alpha-2 code
+ democratic-people-s-republic-of-korea                           | ISO 3166-1-alpha-2 code
+ democraticpeoplesrepublicofkorea                                | ISO 3166-1-alpha-2 code
+ democratic-peoples-republic-of-korea                            | ISO 3166-1-alpha-2 code
+ korea                                                           | ISO 3166-1-alpha-2 code
+ republicofkorea                                                 | ISO 3166-1-alpha-2 code
+ republic-of-korea                                               | ISO 3166-1-alpha-2 code
+ kuwait                                                          | ISO 3166-1-alpha-2 code
+ kyrgyzstan                                                      | ISO 3166-1-alpha-2 code
+ lao-people-s-democratic-republic                                | ISO 3166-1-alpha-2 code
+ laopeoplesdemocraticrepublic                                    | ISO 3166-1-alpha-2 code
+ lao-peoples-democratic-republic                                 | ISO 3166-1-alpha-2 code
+ latvia                                                          | ISO 3166-1-alpha-2 code
+ lebanon                                                         | ISO 3166-1-alpha-2 code
+ lesotho                                                         | ISO 3166-1-alpha-2 code
+ liberia                                                         | ISO 3166-1-alpha-2 code
+ libya                                                           | ISO 3166-1-alpha-2 code
+ liechtenstein                                                   | ISO 3166-1-alpha-2 code
+ lithuania                                                       | ISO 3166-1-alpha-2 code
+ luxembourg                                                      | ISO 3166-1-alpha-2 code
+ macao                                                           | ISO 3166-1-alpha-2 code
+ macedonia                                                       | ISO 3166-1-alpha-2 code
+ theformeryugoslavrepublicofmacedonia                            | ISO 3166-1-alpha-2 code
+ the-former-yugoslav-republic-of-macedonia                       | ISO 3166-1-alpha-2 code
+ formeryugoslavrepublicofmacedonia                               | ISO 3166-1-alpha-2 code
+ former-yugoslav-republic-of-macedonia                           | ISO 3166-1-alpha-2 code
+ yugoslav                                                        | ISO 3166-1-alpha-2 code
+ madagascar                                                      | ISO 3166-1-alpha-2 code
+ malawi                                                          | ISO 3166-1-alpha-2 code
+ malaysia                                                        | ISO 3166-1-alpha-2 code
+ maldives                                                        | ISO 3166-1-alpha-2 code
+ mali                                                            | ISO 3166-1-alpha-2 code
+ malta                                                           | ISO 3166-1-alpha-2 code
+ marshallislands                                                 | ISO 3166-1-alpha-2 code
+ marshall-islands                                                | ISO 3166-1-alpha-2 code
+ martinique                                                      | ISO 3166-1-alpha-2 code
+ mauritania                                                      | ISO 3166-1-alpha-2 code
+ mauritius                                                       | ISO 3166-1-alpha-2 code
+ mayotte                                                         | ISO 3166-1-alpha-2 code
+ mexico                                                          | ISO 3166-1-alpha-2 code
+ micronesia                                                      | ISO 3166-1-alpha-2 code
+ federatedstatesofmicronesia                                     | ISO 3166-1-alpha-2 code
+ federated-states-of-micronesia                                  | ISO 3166-1-alpha-2 code
+ moldova                                                         | ISO 3166-1-alpha-2 code
+ republicofmoldova                                               | ISO 3166-1-alpha-2 code
+ republic-of-moldova                                             | ISO 3166-1-alpha-2 code
+ monaco                                                          | ISO 3166-1-alpha-2 code
+ mongolia                                                        | ISO 3166-1-alpha-2 code
+ montenegro                                                      | ISO 3166-1-alpha-2 code
+ montserrat                                                      | ISO 3166-1-alpha-2 code
+ morocco                                                         | ISO 3166-1-alpha-2 code
+ mozambique                                                      | ISO 3166-1-alpha-2 code
+ myanmar                                                         | ISO 3166-1-alpha-2 code
+ namibia                                                         | ISO 3166-1-alpha-2 code
+ nauru                                                           | ISO 3166-1-alpha-2 code
+ nepal                                                           | ISO 3166-1-alpha-2 code
+ netherlands                                                     | ISO 3166-1-alpha-2 code
+ newcaledonia                                                    | ISO 3166-1-alpha-2 code
+ new-caledonia                                                   | ISO 3166-1-alpha-2 code
+ newzealand                                                      | ISO 3166-1-alpha-2 code
+ new-zealand                                                     | ISO 3166-1-alpha-2 code
+ nicaragua                                                       | ISO 3166-1-alpha-2 code
+ niger                                                           | ISO 3166-1-alpha-2 code
+ nigeria                                                         | ISO 3166-1-alpha-2 code
+ niue                                                            | ISO 3166-1-alpha-2 code
+ norfolkisland                                                   | ISO 3166-1-alpha-2 code
+ norfolk-island                                                  | ISO 3166-1-alpha-2 code
+ northernmarianaislands                                          | ISO 3166-1-alpha-2 code
+ northern-mariana-islands                                        | ISO 3166-1-alpha-2 code
+ norway                                                          | ISO 3166-1-alpha-2 code
+ oman                                                            | ISO 3166-1-alpha-2 code
+ pakistan                                                        | ISO 3166-1-alpha-2 code
+ palau                                                           | ISO 3166-1-alpha-2 code
+ palestine                                                       | ISO 3166-1-alpha-2 code
+ stateofpalestine                                                | ISO 3166-1-alpha-2 code
+ state-of-palestine                                              | ISO 3166-1-alpha-2 code
+ panama                                                          | ISO 3166-1-alpha-2 code
+ papuanewguinea                                                  | ISO 3166-1-alpha-2 code
+ papua-new-guinea                                                | ISO 3166-1-alpha-2 code
+ paraguay                                                        | ISO 3166-1-alpha-2 code
+ peru                                                            | ISO 3166-1-alpha-2 code
+ philippines                                                     | ISO 3166-1-alpha-2 code
+ pitcairn                                                        | ISO 3166-1-alpha-2 code
+ poland                                                          | ISO 3166-1-alpha-2 code
+ portugal                                                        | ISO 3166-1-alpha-2 code
+ puertorico                                                      | ISO 3166-1-alpha-2 code
+ puerto-rico                                                     | ISO 3166-1-alpha-2 code
+ qatar                                                           | ISO 3166-1-alpha-2 code
+ réunion                                                         | ISO 3166-1-alpha-2 code
+ romania                                                         | ISO 3166-1-alpha-2 code
+ russianfederation                                               | ISO 3166-1-alpha-2 code
+ russian-federation                                              | ISO 3166-1-alpha-2 code
+ rwanda                                                          | ISO 3166-1-alpha-2 code
+ saintbarthélemy                                                 | ISO 3166-1-alpha-2 code
+ saint-barthélemy                                                | ISO 3166-1-alpha-2 code
+ sainthelena                                                     | ISO 3166-1-alpha-2 code
+ saint-helena                                                    | ISO 3166-1-alpha-2 code
+ ascensionandtristandacunhasainthelena                           | ISO 3166-1-alpha-2 code
+ ascension-and-tristan-da-cunha-saint-helena                     | ISO 3166-1-alpha-2 code
+ saintkittsandnevis                                              | ISO 3166-1-alpha-2 code
+ saint-kitts-and-nevis                                           | ISO 3166-1-alpha-2 code
+ saintlucia                                                      | ISO 3166-1-alpha-2 code
+ saint-lucia                                                     | ISO 3166-1-alpha-2 code
+ saintmartin                                                     | ISO 3166-1-alpha-2 code
+ saint-martin                                                    | ISO 3166-1-alpha-2 code
+ saintpierreandmiquelon                                          | ISO 3166-1-alpha-2 code
+ saint-pierre-and-miquelon                                       | ISO 3166-1-alpha-2 code
+ saintvincentandthegrenadines                                    | ISO 3166-1-alpha-2 code
+ saint-vincent-and-the-grenadines                                | ISO 3166-1-alpha-2 code
+ samoa                                                           | ISO 3166-1-alpha-2 code
+ sanmarino                                                       | ISO 3166-1-alpha-2 code
+ san-marino                                                      | ISO 3166-1-alpha-2 code
+ saotomeandprincipe                                              | ISO 3166-1-alpha-2 code
+ sao-tome-and-principe                                           | ISO 3166-1-alpha-2 code
+ saudiarabia                                                     | ISO 3166-1-alpha-2 code
+ saudi-arabia                                                    | ISO 3166-1-alpha-2 code
+ senegal                                                         | ISO 3166-1-alpha-2 code
+ serbia                                                          | ISO 3166-1-alpha-2 code
+ seychelles                                                      | ISO 3166-1-alpha-2 code
+ sierraleone                                                     | ISO 3166-1-alpha-2 code
+ sierra-leone                                                    | ISO 3166-1-alpha-2 code
+ singapore                                                       | ISO 3166-1-alpha-2 code
+ sintmaarten                                                     | ISO 3166-1-alpha-2 code
+ sint-maarten                                                    | ISO 3166-1-alpha-2 code
+ slovakia                                                        | ISO 3166-1-alpha-2 code
+ slovenia                                                        | ISO 3166-1-alpha-2 code
+ solomonislands                                                  | ISO 3166-1-alpha-2 code
+ solomon-islands                                                 | ISO 3166-1-alpha-2 code
+ somalia                                                         | ISO 3166-1-alpha-2 code
+ southafrica                                                     | ISO 3166-1-alpha-2 code
+ south-africa                                                    | ISO 3166-1-alpha-2 code
+ southgeorgiaandthesouthsandwichislands                          | ISO 3166-1-alpha-2 code
+ south-georgia-and-the-south-sandwich-islands                    | ISO 3166-1-alpha-2 code
+ southsudan                                                      | ISO 3166-1-alpha-2 code
+ south-sudan                                                     | ISO 3166-1-alpha-2 code
+ spain                                                           | ISO 3166-1-alpha-2 code
+ srilanka                                                        | ISO 3166-1-alpha-2 code
+ sri-lanka                                                       | ISO 3166-1-alpha-2 code
+ sudan                                                           | ISO 3166-1-alpha-2 code
+ suriname                                                        | ISO 3166-1-alpha-2 code
+ svalbardandjanmayen                                             | ISO 3166-1-alpha-2 code
+ svalbard-and-jan-mayen                                          | ISO 3166-1-alpha-2 code
+ swaziland                                                       | ISO 3166-1-alpha-2 code
+ sweden                                                          | ISO 3166-1-alpha-2 code
+ switzerland                                                     | ISO 3166-1-alpha-2 code
+ syrianarabrepublic                                              | ISO 3166-1-alpha-2 code
+ syrian-arab-republic                                            | ISO 3166-1-alpha-2 code
+ taiwan                                                          | ISO 3166-1-alpha-2 code
+ provinceofchinataiwan                                           | ISO 3166-1-alpha-2 code
+ province-of-china-taiwan                                        | ISO 3166-1-alpha-2 code
+ tajikistan                                                      | ISO 3166-1-alpha-2 code
+ tanzania                                                        | ISO 3166-1-alpha-2 code
+ unitedrepublicoftanzania                                        | ISO 3166-1-alpha-2 code
+ united-republic-of-tanzania                                     | ISO 3166-1-alpha-2 code
+ thailand                                                        | ISO 3166-1-alpha-2 code
+ timor-leste                                                     | ISO 3166-1-alpha-2 code
+ togo                                                            | ISO 3166-1-alpha-2 code
+ tokelau                                                         | ISO 3166-1-alpha-2 code
+ tonga                                                           | ISO 3166-1-alpha-2 code
+ trinidadandtobago                                               | ISO 3166-1-alpha-2 code
+ trinidad-and-tobago                                             | ISO 3166-1-alpha-2 code
+ tunisia                                                         | ISO 3166-1-alpha-2 code
+ turkey                                                          | ISO 3166-1-alpha-2 code
+ turkmenistan                                                    | ISO 3166-1-alpha-2 code
+ turksandcaicosislands                                           | ISO 3166-1-alpha-2 code
+ turks-and-caicos-islands                                        | ISO 3166-1-alpha-2 code
+ tuvalu                                                          | ISO 3166-1-alpha-2 code
+ uganda                                                          | ISO 3166-1-alpha-2 code
+ ukraine                                                         | ISO 3166-1-alpha-2 code
+ unitedarabemirates                                              | ISO 3166-1-alpha-2 code
+ united-arab-emirates                                            | ISO 3166-1-alpha-2 code
+ unitedkingdom                                                   | ISO 3166-1-alpha-2 code
+ united-kingdom                                                  | ISO 3166-1-alpha-2 code
+ unitedstates                                                    | ISO 3166-1-alpha-2 code
+ united-states                                                   | ISO 3166-1-alpha-2 code
+ unitedstatesminoroutlyingislands                                | ISO 3166-1-alpha-2 code
+ united-states-minor-outlying-islands                            | ISO 3166-1-alpha-2 code
+ uruguay                                                         | ISO 3166-1-alpha-2 code
+ uzbekistan                                                      | ISO 3166-1-alpha-2 code
+ vanuatu                                                         | ISO 3166-1-alpha-2 code
+ venezuela                                                       | ISO 3166-1-alpha-2 code
+ bolivarianrepublicofvenezuela                                   | ISO 3166-1-alpha-2 code
+ bolivarian-republic-of-venezuela                                | ISO 3166-1-alpha-2 code
+ vietnam                                                         | ISO 3166-1-alpha-2 code
+ viet-nam                                                        | ISO 3166-1-alpha-2 code
+ britishvirginislands                                            | ISO 3166-1-alpha-2 code
+ british-virgin-islands                                          | ISO 3166-1-alpha-2 code
+ virginislands                                                   | ISO 3166-1-alpha-2 code
+ virgin-islands                                                  | ISO 3166-1-alpha-2 code
+ usvirginislands                                                 | ISO 3166-1-alpha-2 code
+ us-virgin-islands                                               | ISO 3166-1-alpha-2 code
+ u-s-virgin-islands                                              | ISO 3166-1-alpha-2 code
+ wallisandfutuna                                                 | ISO 3166-1-alpha-2 code
+ wallis-and-futuna                                               | ISO 3166-1-alpha-2 code
+ westernsahara                                                   | ISO 3166-1-alpha-2 code
+ western-sahara                                                  | ISO 3166-1-alpha-2 code
+ yemen                                                           | ISO 3166-1-alpha-2 code
+ zambia                                                          | ISO 3166-1-alpha-2 code
+ zimbabwe                                                        | ISO 3166-1-alpha-2 code
+ afganistán                                                      | UNGEGN Short Country Name
+ afrique-du-sud                                                  | UNGEGN Short Country Name
+ afriquedusud                                                    | UNGEGN Short Country Name
+ albanie                                                         | UNGEGN Short Country Name
+ alemania                                                        | UNGEGN Short Country Name
+ algérie                                                         | UNGEGN Short Country Name
+ allemagne                                                       | UNGEGN Short Country Name
+ andorre                                                         | UNGEGN Short Country Name
+ antigua-et-barbuda                                              | UNGEGN Short Country Name
+ antiguaetbarbuda                                                | UNGEGN Short Country Name
+ antigua-y-barbuda                                               | UNGEGN Short Country Name
+ antiguaybarbuda                                                 | UNGEGN Short Country Name
+ arabia-saudita                                                  | UNGEGN Short Country Name
+ arabiasaudita                                                   | UNGEGN Short Country Name
+ arabie-saoudite                                                 | UNGEGN Short Country Name
+ arabiesaoudite                                                  | UNGEGN Short Country Name
+ argelia                                                         | UNGEGN Short Country Name
+ argentine                                                       | UNGEGN Short Country Name
+ arménie                                                         | UNGEGN Short Country Name
+ australie                                                       | UNGEGN Short Country Name
+ autriche                                                        | UNGEGN Short Country Name
+ azerbaïdjan                                                     | UNGEGN Short Country Name
+ azerbaiyán                                                      | UNGEGN Short Country Name
+ bahrein                                                         | UNGEGN Short Country Name
+ bahreïn                                                         | UNGEGN Short Country Name
+ barbade                                                         | UNGEGN Short Country Name
+ belarús                                                         | UNGEGN Short Country Name
+ belgique                                                        | UNGEGN Short Country Name
+ belice                                                          | UNGEGN Short Country Name
+ bhoutan                                                         | UNGEGN Short Country Name
+ bhután                                                          | UNGEGN Short Country Name
+ bélarus                                                         | UNGEGN Short Country Name
+ bélgica                                                         | UNGEGN Short Country Name
+ bénin                                                           | UNGEGN Short Country Name
+ bolivie                                                         | UNGEGN Short Country Name
+ bosnia-y-herzegovina                                            | UNGEGN Short Country Name
+ bosniayherzegovina                                              | UNGEGN Short Country Name
+ bosnie-herzégovine                                              | UNGEGN Short Country Name
+ bosnieherzégovine                                               | UNGEGN Short Country Name
+ brasil                                                          | UNGEGN Short Country Name
+ brésil                                                          | UNGEGN Short Country Name
+ brunéi-darussalam                                               | UNGEGN Short Country Name
+ brunéidarussalam                                                | UNGEGN Short Country Name
+ bulgarie                                                        | UNGEGN Short Country Name
+ burkina                                                         | UNGEGN Short Country Name
+ cabo-verde                                                      | UNGEGN Short Country Name
+ caboverde                                                       | UNGEGN Short Country Name
+ cambodge                                                        | UNGEGN Short Country Name
+ camboya                                                         | UNGEGN Short Country Name
+ camerún                                                         | UNGEGN Short Country Name
+ camerooun                                                       | UNGEGN Short Country Name
+ canadá                                                          | UNGEGN Short Country Name
+ cap-vert                                                        | UNGEGN Short Country Name
+ capvert                                                         | UNGEGN Short Country Name
+ chili                                                           | UNGEGN Short Country Name
+ chine                                                           | UNGEGN Short Country Name
+ chipre                                                          | UNGEGN Short Country Name
+ chypre                                                          | UNGEGN Short Country Name
+ colombie                                                        | UNGEGN Short Country Name
+ comoras                                                         | UNGEGN Short Country Name
+ comores                                                         | UNGEGN Short Country Name
+ croacia                                                         | UNGEGN Short Country Name
+ croatie                                                         | UNGEGN Short Country Name
+ danemark                                                        | UNGEGN Short Country Name
+ dinamarca                                                       | UNGEGN Short Country Name
+ dominicana                                                      | UNGEGN Short Country Name
+ dominique                                                       | UNGEGN Short Country Name
+ egipto                                                          | UNGEGN Short Country Name
+ el-reino-unido-de-gran-bretaña-e-irlanda-del-norte              | UNGEGN Short Country Name
+ elreinounidodegranbretañaeirlandadelnorte                       | UNGEGN Short Country Name
+ emiratos-árabes-unidos                                          | UNGEGN Short Country Name
+ emiratosárabesunidos                                            | UNGEGN Short Country Name
+ eslovaquia                                                      | UNGEGN Short Country Name
+ eslovenia                                                       | UNGEGN Short Country Name
+ españa                                                          | UNGEGN Short Country Name
+ espagne                                                         | UNGEGN Short Country Name
+ estados-unidos-de-américa                                       | UNGEGN Short Country Name
+ estadosunidosdeamérica                                          | UNGEGN Short Country Name
+ estonie                                                         | UNGEGN Short Country Name
+ etiopía                                                         | UNGEGN Short Country Name
+ ex-république-yougoslave-de-macédoine                           | UNGEGN Short Country Name
+ ex-républiqueyougoslavedemacédoine                              | UNGEGN Short Country Name
+ exrépubliqueyougoslavedemacédoine                               | UNGEGN Short Country Name
+ fédération-de-russie                                            | UNGEGN Short Country Name
+ fédérationderussie                                              | UNGEGN Short Country Name
+ federación-de-rusia                                             | UNGEGN Short Country Name
+ federaciónderusia                                               | UNGEGN Short Country Name
+ fidji                                                           | UNGEGN Short Country Name
+ filipinas                                                       | UNGEGN Short Country Name
+ finlande                                                        | UNGEGN Short Country Name
+ finlandia                                                       | UNGEGN Short Country Name
+ francia                                                         | UNGEGN Short Country Name
+ gabón                                                           | UNGEGN Short Country Name
+ gambie                                                          | UNGEGN Short Country Name
+ géorgie                                                         | UNGEGN Short Country Name
+ granada                                                         | UNGEGN Short Country Name
+ grèce                                                           | UNGEGN Short Country Name
+ grecia                                                          | UNGEGN Short Country Name
+ grenade                                                         | UNGEGN Short Country Name
+ guineabissau                                                    | UNGEGN Short Country Name
+ guinea-ecuatorial                                               | UNGEGN Short Country Name
+ guineaecuatorial                                                | UNGEGN Short Country Name
+ guinée-bissau                                                   | UNGEGN Short Country Name
+ guinéebissau                                                    | UNGEGN Short Country Name
+ guinée-équatoriale                                              | UNGEGN Short Country Name
+ guinéeéquatoriale                                               | UNGEGN Short Country Name
+ guinée                                                          | UNGEGN Short Country Name
+ égypte                                                          | UNGEGN Short Country Name
+ haití                                                           | UNGEGN Short Country Name
+ haïti                                                           | UNGEGN Short Country Name
+ hongrie                                                         | UNGEGN Short Country Name
+ hungría                                                         | UNGEGN Short Country Name
+ inde                                                            | UNGEGN Short Country Name
+ indonésie                                                       | UNGEGN Short Country Name
+ irlanda                                                         | UNGEGN Short Country Name
+ irlande                                                         | UNGEGN Short Country Name
+ irán                                                            | UNGEGN Short Country Name
+ islande                                                         | UNGEGN Short Country Name
+ islandia                                                        | UNGEGN Short Country Name
+ islas-marshall                                                  | UNGEGN Short Country Name
+ islasmarshall                                                   | UNGEGN Short Country Name
+ islas-salomón                                                   | UNGEGN Short Country Name
+ islassalomón                                                    | UNGEGN Short Country Name
+ israël                                                          | UNGEGN Short Country Name
+ italia                                                          | UNGEGN Short Country Name
+ italie                                                          | UNGEGN Short Country Name
+ jamaïque                                                        | UNGEGN Short Country Name
+ japón                                                           | UNGEGN Short Country Name
+ japon                                                           | UNGEGN Short Country Name
+ jordania                                                        | UNGEGN Short Country Name
+ jordanie                                                        | UNGEGN Short Country Name
+ kazajstán                                                       | UNGEGN Short Country Name
+ kirghizistan                                                    | UNGEGN Short Country Name
+ kirguistán                                                      | UNGEGN Short Country Name
+ koweït                                                          | UNGEGN Short Country Name
+ la-ex-república-yugoslava-de-macedonia                          | UNGEGN Short Country Name
+ laexrepúblicayugoslavademacedonia                               | UNGEGN Short Country Name
+ líbano                                                          | UNGEGN Short Country Name
+ îles-marshall                                                   | UNGEGN Short Country Name
+ îlesmarshall                                                    | UNGEGN Short Country Name
+ îles-salomon                                                    | UNGEGN Short Country Name
+ îlessalomon                                                     | UNGEGN Short Country Name
+ letonia                                                         | UNGEGN Short Country Name
+ lettonie                                                        | UNGEGN Short Country Name
+ liban                                                           | UNGEGN Short Country Name
+ libia                                                           | UNGEGN Short Country Name
+ libéria                                                         | UNGEGN Short Country Name
+ libye                                                           | UNGEGN Short Country Name
+ lituania                                                        | UNGEGN Short Country Name
+ lituanie                                                        | UNGEGN Short Country Name
+ luxemburgo                                                      | UNGEGN Short Country Name
+ malaisie                                                        | UNGEGN Short Country Name
+ malasia                                                         | UNGEGN Short Country Name
+ maldivas                                                        | UNGEGN Short Country Name
+ malte                                                           | UNGEGN Short Country Name
+ malí                                                            | UNGEGN Short Country Name
+ maroc                                                           | UNGEGN Short Country Name
+ marruecos                                                       | UNGEGN Short Country Name
+ maurice                                                         | UNGEGN Short Country Name
+ mauricio                                                        | UNGEGN Short Country Name
+ mauritanie                                                      | UNGEGN Short Country Name
+ mexique                                                         | UNGEGN Short Country Name
+ micronésie                                                      | UNGEGN Short Country Name
+ émirats-arabes-unis                                             | UNGEGN Short Country Name
+ émiratsarabesunis                                               | UNGEGN Short Country Name
+ mónaco                                                          | UNGEGN Short Country Name
+ mongolie                                                        | UNGEGN Short Country Name
+ monténégro                                                      | UNGEGN Short Country Name
+ méxico                                                          | UNGEGN Short Country Name
+ namibie                                                         | UNGEGN Short Country Name
+ níger                                                           | UNGEGN Short Country Name
+ nigéria                                                         | UNGEGN Short Country Name
+ noruega                                                         | UNGEGN Short Country Name
+ norvège                                                         | UNGEGN Short Country Name
+ nouvelle-zélande                                                | UNGEGN Short Country Name
+ nouvellezélande                                                 | UNGEGN Short Country Name
+ népal                                                           | UNGEGN Short Country Name
+ nueva-zelandia                                                  | UNGEGN Short Country Name
+ nuevazelandia                                                   | UNGEGN Short Country Name
+ omán                                                            | UNGEGN Short Country Name
+ ouganda                                                         | UNGEGN Short Country Name
+ ouzbékistan                                                     | UNGEGN Short Country Name
+ pakistán                                                        | UNGEGN Short Country Name
+ palaos                                                          | UNGEGN Short Country Name
+ panamá                                                          | UNGEGN Short Country Name
+ papouasie-nouvelle-guinée                                       | UNGEGN Short Country Name
+ papouasienouvelleguinée                                         | UNGEGN Short Country Name
+ papua-nueva-guinea                                              | UNGEGN Short Country Name
+ papuanuevaguinea                                                | UNGEGN Short Country Name
+ países-bajos                                                    | UNGEGN Short Country Name
+ paísesbajos                                                     | UNGEGN Short Country Name
+ pays-bas                                                        | UNGEGN Short Country Name
+ paysbas                                                         | UNGEGN Short Country Name
+ perú                                                            | UNGEGN Short Country Name
+ pologne                                                         | UNGEGN Short Country Name
+ polonia                                                         | UNGEGN Short Country Name
+ pérou                                                           | UNGEGN Short Country Name
+ équateur                                                        | UNGEGN Short Country Name
+ república-centroafricana                                        | UNGEGN Short Country Name
+ repúblicacentroafricana                                         | UNGEGN Short Country Name
+ república-checa                                                 | UNGEGN Short Country Name
+ repúblicacheca                                                  | UNGEGN Short Country Name
+ república-de-corea                                              | UNGEGN Short Country Name
+ repúblicadecorea                                                | UNGEGN Short Country Name
+ república-democrática-del-congo                                 | UNGEGN Short Country Name
+ repúblicademocráticadelcongo                                    | UNGEGN Short Country Name
+ república-democrática-popular-lao                               | UNGEGN Short Country Name
+ repúblicademocráticapopularlao                                  | UNGEGN Short Country Name
+ república-de-moldova                                            | UNGEGN Short Country Name
+ repúblicademoldova                                              | UNGEGN Short Country Name
+ república-popular-democrática-de-corea                          | UNGEGN Short Country Name
+ repúblicapopulardemocráticadecorea                              | UNGEGN Short Country Name
+ república-árabe-siria                                           | UNGEGN Short Country Name
+ repúblicaárabesiria                                             | UNGEGN Short Country Name
+ república-unida-de-tanzanía                                     | UNGEGN Short Country Name
+ repúblicaunidadetanzanía                                        | UNGEGN Short Country Name
+ roumanie                                                        | UNGEGN Short Country Name
+ royaume-uni-de-grande-bretagne-et-d-irlande-du-nord             | UNGEGN Short Country Name
+ royaume-unidegrande-bretagneetdirlandedunord                    | UNGEGN Short Country Name
+ royaumeunidegrandebretagneetdirlandedunord                      | UNGEGN Short Country Name
+ république-arabe-syrienne                                       | UNGEGN Short Country Name
+ républiquearabesyrienne                                         | UNGEGN Short Country Name
+ république-centrafricaine                                       | UNGEGN Short Country Name
+ républiquecentrafricaine                                        | UNGEGN Short Country Name
+ république-de-corée                                             | UNGEGN Short Country Name
+ républiquedecorée                                               | UNGEGN Short Country Name
+ république-de-moldova                                           | UNGEGN Short Country Name
+ républiquedemoldova                                             | UNGEGN Short Country Name
+ république-démocratique-du-congo                                | UNGEGN Short Country Name
+ républiquedémocratiqueducongo                                   | UNGEGN Short Country Name
+ république-démocratique-populaire-lao                           | UNGEGN Short Country Name
+ républiquedémocratiquepopulairelao                              | UNGEGN Short Country Name
+ république-dominicaine                                          | UNGEGN Short Country Name
+ républiquedominicaine                                           | UNGEGN Short Country Name
+ république-populaire-démocratique-de-corée                      | UNGEGN Short Country Name
+ républiquepopulairedémocratiquedecorée                          | UNGEGN Short Country Name
+ république-tchèque                                              | UNGEGN Short Country Name
+ républiquetchèque                                               | UNGEGN Short Country Name
+ république-unie-de-tanzanie                                     | UNGEGN Short Country Name
+ république-uniedetanzanie                                       | UNGEGN Short Country Name
+ républiqueuniedetanzanie                                        | UNGEGN Short Country Name
+ rumania                                                         | UNGEGN Short Country Name
+ érythrée                                                        | UNGEGN Short Country Name
+ sainte-lucie                                                    | UNGEGN Short Country Name
+ saintelucie                                                     | UNGEGN Short Country Name
+ saint-kitts-et-nevis                                            | UNGEGN Short Country Name
+ saintkittsetnevis                                               | UNGEGN Short Country Name
+ saint-kitts-y-nevis                                             | UNGEGN Short Country Name
+ saintkittsynevis                                                | UNGEGN Short Country Name
+ saint-marin                                                     | UNGEGN Short Country Name
+ saintmarin                                                      | UNGEGN Short Country Name
+ saint-siège                                                     | UNGEGN Short Country Name
+ saintsiège                                                      | UNGEGN Short Country Name
+ saint-vincent-et-les-grenadines                                 | UNGEGN Short Country Name
+ saint-vincent-et-lesgrenadines                                  | UNGEGN Short Country Name
+ saintvincentetlesgrenadines                                     | UNGEGN Short Country Name
+ santa-lucía                                                     | UNGEGN Short Country Name
+ santalucía                                                      | UNGEGN Short Country Name
+ santa-sede                                                      | UNGEGN Short Country Name
+ santasede                                                       | UNGEGN Short Country Name
+ santo-tomé-y-príncipe                                           | UNGEGN Short Country Name
+ santotoméypríncipe                                              | UNGEGN Short Country Name
+ san-vicente-y-las-granadinas                                    | UNGEGN Short Country Name
+ sanvicenteylasgranadinas                                        | UNGEGN Short Country Name
+ sao-tomé-et-principe                                            | UNGEGN Short Country Name
+ saotomé-et-principe                                             | UNGEGN Short Country Name
+ saotoméetprincipe                                               | UNGEGN Short Country Name
+ serbie                                                          | UNGEGN Short Country Name
+ sierra-leona                                                    | UNGEGN Short Country Name
+ sierraleona                                                     | UNGEGN Short Country Name
+ singapour                                                       | UNGEGN Short Country Name
+ singapur                                                        | UNGEGN Short Country Name
+ slovaquie                                                       | UNGEGN Short Country Name
+ slovénie                                                        | UNGEGN Short Country Name
+ sénégal                                                         | UNGEGN Short Country Name
+ somalie                                                         | UNGEGN Short Country Name
+ soudan-du-sud                                                   | UNGEGN Short Country Name
+ soudandusud                                                     | UNGEGN Short Country Name
+ soudan                                                          | UNGEGN Short Country Name
+ suède                                                           | UNGEGN Short Country Name
+ sudáfrica                                                       | UNGEGN Short Country Name
+ sudán-del-sur                                                   | UNGEGN Short Country Name
+ sudándelsur                                                     | UNGEGN Short Country Name
+ sudán                                                           | UNGEGN Short Country Name
+ suecia                                                          | UNGEGN Short Country Name
+ suisse                                                          | UNGEGN Short Country Name
+ suiza                                                           | UNGEGN Short Country Name
+ swazilandia                                                     | UNGEGN Short Country Name
+ tadjikistan                                                     | UNGEGN Short Country Name
+ tailandia                                                       | UNGEGN Short Country Name
+ états-unis-d-amérique                                           | UNGEGN Short Country Name
+ états-unisdamérique                                             | UNGEGN Short Country Name
+ étatsunisdamérique                                              | UNGEGN Short Country Name
+ tayikistán                                                      | UNGEGN Short Country Name
+ tchad                                                           | UNGEGN Short Country Name
+ thaïlande                                                       | UNGEGN Short Country Name
+ éthiopie                                                        | UNGEGN Short Country Name
+ timorleste                                                      | UNGEGN Short Country Name
+ túnez                                                           | UNGEGN Short Country Name
+ trinidad-y-tabago                                               | UNGEGN Short Country Name
+ trinidadytabago                                                 | UNGEGN Short Country Name
+ trinité-et-tobago                                               | UNGEGN Short Country Name
+ trinitéettobago                                                 | UNGEGN Short Country Name
+ tunisie                                                         | UNGEGN Short Country Name
+ turkmenistán                                                    | UNGEGN Short Country Name
+ turkménistan                                                    | UNGEGN Short Country Name
+ turquía                                                         | UNGEGN Short Country Name
+ turquie                                                         | UNGEGN Short Country Name
+ ucrania                                                         | UNGEGN Short Country Name
+ المملكة-المتحدة-لبريطانيا-العظمى-وآيرلندا-الشمالية-             | UNGEGN Short Country Name
+ соединенное-королевство-великобритании-и-северной-ирландии-     | UNGEGN Short Country Name
+ الولايات-المتحدة-الأمريكية-                                     | UNGEGN Short Country Name
+ جمهورية-كوريا-الشعبية-الديمقراطية                               | UNGEGN Short Country Name
+ جمهورية-لاو-الديمقراطية-الشعبية                                 | UNGEGN Short Country Name
+ جمهورية-مقدونيا-اليوغوسلافية-السابقة                            | UNGEGN Short Country Name
+ سانت-فنسنت-وجزر-غرينادين                                        | UNGEGN Short Country Name
+ غينيا---بيساو                                                   | UNGEGN Short Country Name
+ бывшая-югославская-республика-македония                         | UNGEGN Short Country Name
+ корейская-народно-демократическая-республика                    | UNGEGN Short Country Name
+ лаосская-народно-демократическая-республика                     | UNGEGN Short Country Name
+ сан-томе-и-принсипи                                             | UNGEGN Short Country Name
+ сент-винсент-и-гренадины                                        | UNGEGN Short Country Name
+ сент-китс-и-невис                                               | UNGEGN Short Country Name
+ соединенные-штаты-америки-                                      | UNGEGN Short Country Name
+ тринидад-и-тобаго-                                              | UNGEGN Short Country Name
+ الإمارات-العربية-المتحدة                                        | UNGEGN Short Country Name
+ الجمهورية-العربية-السورية                                       | UNGEGN Short Country Name
+ المملكة-العربية-السعودية                                        | UNGEGN Short Country Name
+ بابوا-غينيا-الجديدة                                             | UNGEGN Short Country Name
+ بروني-دار-السلام                                                | UNGEGN Short Country Name
+ تيمور--ليشتي                                                    | UNGEGN Short Country Name
+ جمهورية-أفريقيا-الوسطى                                          | UNGEGN Short Country Name
+ جمهورية-الكونغو-الديمقراطية                                     | UNGEGN Short Country Name
+ جمهورية-تنزانيا-المتحدة                                         | UNGEGN Short Country Name
+ سانت-كيتس-ونيفس                                                 | UNGEGN Short Country Name
+ سان-تومي-وبرينسيبي                                              | UNGEGN Short Country Name
+ антигуа-и-барбуда                                               | UNGEGN Short Country Name
+ босния-и-герцеговина                                            | UNGEGN Short Country Name
+ бруней-даруссалам-                                              | UNGEGN Short Country Name
+ 赞比亚                                                          | UNGEGN Short Country Name
+ демократическая-республика-конго                                | UNGEGN Short Country Name
+ кот-д-ивуар                                                     | UNGEGN Short Country Name
+ объединенная-республика-танзания                                | UNGEGN Short Country Name
+ المكسيك                                                         | UNGEGN Short Country Name
+ объединенные-арабские-эмираты                                   | UNGEGN Short Country Name
+ папуа-новая-гвинея                                              | UNGEGN Short Country Name
+ сирийская-арабская-республика                                   | UNGEGN Short Country Name
+ 大不列颠及北爱尔兰联合王国--                                    | UNGEGN Short Country Name
+ الاتحاد-الروسي                                                  | UNGEGN Short Country Name
+ البوسنة-والهرسك                                                 | UNGEGN Short Country Name
+ الجبل-الأسود                                                    | UNGEGN Short Country Name
+ الجمهورية-التشيكية                                              | UNGEGN Short Country Name
+ الجمهورية-الدومينيكية                                           | UNGEGN Short Country Name
+ الرأس-الأخضر                                                    | UNGEGN Short Country Name
+ الكرسي-الرسولي                                                  | UNGEGN Short Country Name
+ أنتيغوا-وبربودا                                                 | UNGEGN Short Country Name
+ بوركينا-فاسو                                                    | UNGEGN Short Country Name
+ ترينيداد-وتوباغو                                                | UNGEGN Short Country Name
+ تيمور-ليشتي                                                     | UNGEGN Short Country Name
+ جزر-البهاما                                                     | UNGEGN Short Country Name
+ جزر-القمر                                                       | UNGEGN Short Country Name
+ جزر-سليمان                                                      | UNGEGN Short Country Name
+ جزر-مارشال                                                      | UNGEGN Short Country Name
+ جمهورية-كوريا                                                   | UNGEGN Short Country Name
+ جمهورية-مولدوفا                                                 | UNGEGN Short Country Name
+ جنوب-أفريقيا                                                    | UNGEGN Short Country Name
+ جنوب-السودان                                                    | UNGEGN Short Country Name
+ سانت-لوسيا                                                      | UNGEGN Short Country Name
+ سان-مارينو                                                      | UNGEGN Short Country Name
+ سري-لانكا                                                       | UNGEGN Short Country Name
+ غينيا-الاستوائية                                                | UNGEGN Short Country Name
+ غينيا-بيساو                                                     | UNGEGN Short Country Name
+ فييت-نام                                                        | UNGEGN Short Country Name
+ كوت-ديفوار                                                      | UNGEGN Short Country Name
+ багамские-острова                                               | UNGEGN Short Country Name
+ бруней-даруссалам                                               | UNGEGN Short Country Name
+ буркина-фасо                                                    | UNGEGN Short Country Name
+ гвинея-бисау                                                    | UNGEGN Short Country Name
+ доминиканская-республика                                        | UNGEGN Short Country Name
+ кабо-верде                                                      | UNGEGN Short Country Name
+ коморские-острова                                               | UNGEGN Short Country Name
+ корейскаянародно-демократическаяреспублика                      | UNGEGN Short Country Name
+ коста-рика                                                      | UNGEGN Short Country Name
+ кот-дивуар                                                      | UNGEGN Short Country Name
+ лаосскаянародно-демократическаяреспублика                       | UNGEGN Short Country Name
+ мальдивские-острова                                             | UNGEGN Short Country Name
+ маршалловы-острова                                              | UNGEGN Short Country Name
+ новая-зеландия                                                  | UNGEGN Short Country Name
+ папуа-новаягвинея                                               | UNGEGN Short Country Name
+ республика-корея                                                | UNGEGN Short Country Name
+ республика-молдова                                              | UNGEGN Short Country Name
+ российская-федерация                                            | UNGEGN Short Country Name
+ сан-марино                                                      | UNGEGN Short Country Name
+ сан-томеипринсипи                                               | UNGEGN Short Country Name
+ саудовская-аравия                                               | UNGEGN Short Country Name
+ святой-престол                                                  | UNGEGN Short Country Name
+ сейшельские-острова                                             | UNGEGN Short Country Name
+ сент-винсентигренадины                                          | UNGEGN Short Country Name
+ сент-китсиневис                                                 | UNGEGN Short Country Name
+ сент-люсия                                                      | UNGEGN Short Country Name
+ соломоновы-острова                                              | UNGEGN Short Country Name
+ сьерра-леоне                                                    | UNGEGN Short Country Name
+ тимор-лешти                                                     | UNGEGN Short Country Name
+ фиджи-                                                          | UNGEGN Short Country Name
+ центральноафриканская-республика                                | UNGEGN Short Country Name
+ чешская-республика                                              | UNGEGN Short Country Name
+ шри-ланка                                                       | UNGEGN Short Country Name
+ экваториальная-гвинея                                           | UNGEGN Short Country Name
+ южная-африка                                                    | UNGEGN Short Country Name
+ южный-судан                                                     | UNGEGN Short Country Name
+ 多米尼加-                                                       | UNGEGN Short Country Name
+ 教廷-                                                           | UNGEGN Short Country Name
+ 美利坚合众国-                                                   | UNGEGN Short Country Name
+ 阿根廷-                                                         | UNGEGN Short Country Name
+ إثيوبيا                                                         | UNGEGN Short Country Name
+ أذربيجان                                                        | UNGEGN Short Country Name
+ أرمينيا                                                         | UNGEGN Short Country Name
+ إريتريا                                                         | UNGEGN Short Country Name
+ أسبانيا                                                         | UNGEGN Short Country Name
+ أستراليا                                                        | UNGEGN Short Country Name
+ إستونيا                                                         | UNGEGN Short Country Name
+ إسرائيل                                                         | UNGEGN Short Country Name
+ أفغانستان                                                       | UNGEGN Short Country Name
+ إكوادور                                                         | UNGEGN Short Country Name
+ الاتحادالروسي                                                   | UNGEGN Short Country Name
+ الأرجنتين                                                       | UNGEGN Short Country Name
+ الأردن                                                          | UNGEGN Short Country Name
+ الإماراتالعربيةالمتحدة                                          | UNGEGN Short Country Name
+ ألبانيا                                                         | UNGEGN Short Country Name
+ البحرين                                                         | UNGEGN Short Country Name
+ البرازيل                                                        | UNGEGN Short Country Name
+ البرتغال                                                        | UNGEGN Short Country Name
+ البوسنةوالهرسك                                                  | UNGEGN Short Country Name
+ الجبلالأسود                                                     | UNGEGN Short Country Name
+ الجزائر                                                         | UNGEGN Short Country Name
+ الجمهوريةالتشيكية                                               | UNGEGN Short Country Name
+ الجمهوريةالدومينيكية                                            | UNGEGN Short Country Name
+ الجمهوريةالعربيةالسورية                                         | UNGEGN Short Country Name
+ الدانمرك                                                        | UNGEGN Short Country Name
+ الرأسالأخضر                                                     | UNGEGN Short Country Name
+ السلفادور                                                       | UNGEGN Short Country Name
+ السنغال                                                         | UNGEGN Short Country Name
+ السودان                                                         | UNGEGN Short Country Name
+ السويد                                                          | UNGEGN Short Country Name
+ اَلصُّومَال                                                         | UNGEGN Short Country Name
+ الصومال                                                         | UNGEGN Short Country Name
+ الصين                                                           | UNGEGN Short Country Name
+ العراق                                                          | UNGEGN Short Country Name
+ الفلبين                                                         | UNGEGN Short Country Name
+ الكاميرون                                                       | UNGEGN Short Country Name
+ الكرسيالرسولي                                                   | UNGEGN Short Country Name
+ الكونغو                                                         | UNGEGN Short Country Name
+ الكويت                                                          | UNGEGN Short Country Name
+ ألمانيا                                                         | UNGEGN Short Country Name
+ المغرب                                                          | UNGEGN Short Country Name
+ المملكةالعربيةالسعودية                                          | UNGEGN Short Country Name
+ المملكةالمتحدةلبريطانياالعظمىوآيرلنداالشمالية                   | UNGEGN Short Country Name
+ النرويج                                                         | UNGEGN Short Country Name
+ النمسا                                                          | UNGEGN Short Country Name
+ النيجر                                                          | UNGEGN Short Country Name
+ الهند                                                           | UNGEGN Short Country Name
+ الولاياتالمتحدةالأمريكية                                        | UNGEGN Short Country Name
+ اليابان                                                         | UNGEGN Short Country Name
+ اليمن                                                           | UNGEGN Short Country Name
+ اليونان                                                         | UNGEGN Short Country Name
+ أنتيغواوبربودا                                                  | UNGEGN Short Country Name
+ أندورا                                                          | UNGEGN Short Country Name
+ إندونيسيا                                                       | UNGEGN Short Country Name
+ أنغولا                                                          | UNGEGN Short Country Name
+ أوروغواي                                                        | UNGEGN Short Country Name
+ أوزبكستان                                                       | UNGEGN Short Country Name
+ أوغندا                                                          | UNGEGN Short Country Name
+ أوكرانيا                                                        | UNGEGN Short Country Name
+ إيران                                                           | UNGEGN Short Country Name
+ آيرلندا                                                         | UNGEGN Short Country Name
+ آيسلندا                                                         | UNGEGN Short Country Name
+ إيطاليا                                                         | UNGEGN Short Country Name
+ بابواغينياالجديدة                                               | UNGEGN Short Country Name
+ باراغواي                                                        | UNGEGN Short Country Name
+ باكستان                                                         | UNGEGN Short Country Name
+ بالاو                                                           | UNGEGN Short Country Name
+ بربادوس                                                         | UNGEGN Short Country Name
+ برونيدارالسلام                                                  | UNGEGN Short Country Name
+ بلجيكا                                                          | UNGEGN Short Country Name
+ بلغاريا                                                         | UNGEGN Short Country Name
+ بليز                                                            | UNGEGN Short Country Name
+ بنغلاديش                                                        | UNGEGN Short Country Name
+ بنما                                                            | UNGEGN Short Country Name
+ بنن                                                             | UNGEGN Short Country Name
+ بوتان                                                           | UNGEGN Short Country Name
+ بوتسوانا                                                        | UNGEGN Short Country Name
+ بوركينافاسو                                                     | UNGEGN Short Country Name
+ بوروندي                                                         | UNGEGN Short Country Name
+ بولندا                                                          | UNGEGN Short Country Name
+ بوليفيا                                                         | UNGEGN Short Country Name
+ بيرو                                                            | UNGEGN Short Country Name
+ بيلاروس                                                         | UNGEGN Short Country Name
+ تايلند                                                          | UNGEGN Short Country Name
+ تركمانستان                                                      | UNGEGN Short Country Name
+ تركيا                                                           | UNGEGN Short Country Name
+ ترينيدادوتوباغو                                                 | UNGEGN Short Country Name
+ تشاد                                                            | UNGEGN Short Country Name
+ توغو                                                            | UNGEGN Short Country Name
+ توفالو                                                          | UNGEGN Short Country Name
+ تونس                                                            | UNGEGN Short Country Name
+ تونغا                                                           | UNGEGN Short Country Name
+ تيمورليشتي                                                      | UNGEGN Short Country Name
+ جامايكا                                                         | UNGEGN Short Country Name
+ جزرالبهاما                                                      | UNGEGN Short Country Name
+ جزرالقمر                                                        | UNGEGN Short Country Name
+ جزرسليمان                                                       | UNGEGN Short Country Name
+ جزرمارشال                                                       | UNGEGN Short Country Name
+ جمهوريةأفريقياالوسطى                                            | UNGEGN Short Country Name
+ جمهوريةالكونغوالديمقراطية                                       | UNGEGN Short Country Name
+ جمهوريةتنزانياالمتحدة                                           | UNGEGN Short Country Name
+ جمهوريةكوريا                                                    | UNGEGN Short Country Name
+ جمهوريةكورياالشعبيةالديمقراطية                                  | UNGEGN Short Country Name
+ جمهوريةلاوالديمقراطيةالشعبية                                    | UNGEGN Short Country Name
+ جمهوريةمقدونيااليوغوسلافيةالسابقة                               | UNGEGN Short Country Name
+ جمهوريةمولدوفا                                                  | UNGEGN Short Country Name
+ جنوبأفريقيا                                                     | UNGEGN Short Country Name
+ جنوبالسودان                                                     | UNGEGN Short Country Name
+ جورجيا                                                          | UNGEGN Short Country Name
+ جيبوتي                                                          | UNGEGN Short Country Name
+ دومينيكا                                                        | UNGEGN Short Country Name
+ رواندا                                                          | UNGEGN Short Country Name
+ رومانيا                                                         | UNGEGN Short Country Name
+ زامبيا                                                          | UNGEGN Short Country Name
+ زمبابوي                                                         | UNGEGN Short Country Name
+ ساموا                                                           | UNGEGN Short Country Name
+ سانتفنسنتوجزرغرينادين                                           | UNGEGN Short Country Name
+ سانتكيتسونيفس                                                   | UNGEGN Short Country Name
+ سانتلوسيا                                                       | UNGEGN Short Country Name
+ سانتوميوبرينسيبي                                                | UNGEGN Short Country Name
+ سانمارينو                                                       | UNGEGN Short Country Name
+ سريلانكا                                                        | UNGEGN Short Country Name
+ سلوفاكيا                                                        | UNGEGN Short Country Name
+ سلوفينيا                                                        | UNGEGN Short Country Name
+ سنغافورة                                                        | UNGEGN Short Country Name
+ سوازيلند                                                        | UNGEGN Short Country Name
+ سورينام                                                         | UNGEGN Short Country Name
+ سويسرا                                                          | UNGEGN Short Country Name
+ سيراليون                                                        | UNGEGN Short Country Name
+ سيشيل                                                           | UNGEGN Short Country Name
+ شيلي                                                            | UNGEGN Short Country Name
+ صربيا                                                           | UNGEGN Short Country Name
+ طاجيكستان                                                       | UNGEGN Short Country Name
+ عمان                                                            | UNGEGN Short Country Name
+ غابون                                                           | UNGEGN Short Country Name
+ غامبيا                                                          | UNGEGN Short Country Name
+ غانا                                                            | UNGEGN Short Country Name
+ غرينادا                                                         | UNGEGN Short Country Name
+ غواتيمالا                                                       | UNGEGN Short Country Name
+ غيانا                                                           | UNGEGN Short Country Name
+ غينيا                                                           | UNGEGN Short Country Name
+ غينياالاستوائية                                                 | UNGEGN Short Country Name
+ غينيابيساو                                                      | UNGEGN Short Country Name
+ فانواتو                                                         | UNGEGN Short Country Name
+ فرنسا                                                           | UNGEGN Short Country Name
+ فنزويلا                                                         | UNGEGN Short Country Name
+ فنلندا                                                          | UNGEGN Short Country Name
+ فيجي                                                            | UNGEGN Short Country Name
+ فييتنام                                                         | UNGEGN Short Country Name
+ قبرص                                                            | UNGEGN Short Country Name
+ قطر                                                             | UNGEGN Short Country Name
+ قيرغيزستان                                                      | UNGEGN Short Country Name
+ كازاخستان                                                       | UNGEGN Short Country Name
+ كرواتيا                                                         | UNGEGN Short Country Name
+ كمبوديا                                                         | UNGEGN Short Country Name
+ كندا                                                            | UNGEGN Short Country Name
+ كوبا                                                            | UNGEGN Short Country Name
+ كوتديفوار                                                       | UNGEGN Short Country Name
+ كوستاريكا                                                       | UNGEGN Short Country Name
+ كولومبيا                                                        | UNGEGN Short Country Name
+ كيريباس                                                         | UNGEGN Short Country Name
+ كينيا                                                           | UNGEGN Short Country Name
+ لاتفيا                                                          | UNGEGN Short Country Name
+ لبنان                                                           | UNGEGN Short Country Name
+ لكسمبرغ                                                         | UNGEGN Short Country Name
+ ليبريا                                                          | UNGEGN Short Country Name
+ ليبيا                                                           | UNGEGN Short Country Name
+ ليتوانيا                                                        | UNGEGN Short Country Name
+ ليختنشتاين                                                      | UNGEGN Short Country Name
+ ليسوتو                                                          | UNGEGN Short Country Name
+ مالطة                                                           | UNGEGN Short Country Name
+ مالي                                                            | UNGEGN Short Country Name
+ ماليزيا                                                         | UNGEGN Short Country Name
+ مدغشقر                                                          | UNGEGN Short Country Name
+ مصر                                                             | UNGEGN Short Country Name
+ ملاوي                                                           | UNGEGN Short Country Name
+ ملديف                                                           | UNGEGN Short Country Name
+ منغوليا                                                         | UNGEGN Short Country Name
+ موريتانيا                                                       | UNGEGN Short Country Name
+ موريشيوس                                                        | UNGEGN Short Country Name
+ موزامبيق                                                        | UNGEGN Short Country Name
+ موناكو                                                          | UNGEGN Short Country Name
+ ميانمار                                                         | UNGEGN Short Country Name
+ ميكرونيزيا                                                      | UNGEGN Short Country Name
+ ناميبيا                                                         | UNGEGN Short Country Name
+ ناورو                                                           | UNGEGN Short Country Name
+ نيبال                                                           | UNGEGN Short Country Name
+ نيجيريا                                                         | UNGEGN Short Country Name
+ نيكاراغوا                                                       | UNGEGN Short Country Name
+ نيوزيلندا                                                       | UNGEGN Short Country Name
+ هايتي                                                           | UNGEGN Short Country Name
+ هندوراس                                                         | UNGEGN Short Country Name
+ هنغاريا                                                         | UNGEGN Short Country Name
+ هولندا                                                          | UNGEGN Short Country Name
+ австралия                                                       | UNGEGN Short Country Name
+ австрия                                                         | UNGEGN Short Country Name
+ азербайджан                                                     | UNGEGN Short Country Name
+ албания                                                         | UNGEGN Short Country Name
+ алжир                                                           | UNGEGN Short Country Name
+ ангола                                                          | UNGEGN Short Country Name
+ андорра                                                         | UNGEGN Short Country Name
+ антигуаибарбуда                                                 | UNGEGN Short Country Name
+ аргентина                                                       | UNGEGN Short Country Name
+ армения                                                         | UNGEGN Short Country Name
+ афганистан                                                      | UNGEGN Short Country Name
+ багамскиеострова                                                | UNGEGN Short Country Name
+ бангладеш                                                       | UNGEGN Short Country Name
+ барбадос                                                        | UNGEGN Short Country Name
+ бахрейн                                                         | UNGEGN Short Country Name
+ беларусь                                                        | UNGEGN Short Country Name
+ белиз                                                           | UNGEGN Short Country Name
+ бельгия                                                         | UNGEGN Short Country Name
+ бенин                                                           | UNGEGN Short Country Name
+ болгария                                                        | UNGEGN Short Country Name
+ боливия                                                         | UNGEGN Short Country Name
+ боснияигерцеговина                                              | UNGEGN Short Country Name
+ ботсвана                                                        | UNGEGN Short Country Name
+ бразилия                                                        | UNGEGN Short Country Name
+ брунейдаруссалам                                                | UNGEGN Short Country Name
+ буркинафасо                                                     | UNGEGN Short Country Name
+ бурунди                                                         | UNGEGN Short Country Name
+ бутан                                                           | UNGEGN Short Country Name
+ бывшаяюгославскаяреспубликамакедония                            | UNGEGN Short Country Name
+ вануату                                                         | UNGEGN Short Country Name
+ венгрия                                                         | UNGEGN Short Country Name
+ венесуэла                                                       | UNGEGN Short Country Name
+ вьетнам                                                         | UNGEGN Short Country Name
+ габон                                                           | UNGEGN Short Country Name
+ гаити                                                           | UNGEGN Short Country Name
+ гайана                                                          | UNGEGN Short Country Name
+ гамбия                                                          | UNGEGN Short Country Name
+ гана                                                            | UNGEGN Short Country Name
+ гватемала                                                       | UNGEGN Short Country Name
+ гвинея                                                          | UNGEGN Short Country Name
+ гвинеябисау                                                     | UNGEGN Short Country Name
+ германия                                                        | UNGEGN Short Country Name
+ гондурас                                                        | UNGEGN Short Country Name
+ гренада                                                         | UNGEGN Short Country Name
+ греция                                                          | UNGEGN Short Country Name
+ грузия                                                          | UNGEGN Short Country Name
+ дания                                                           | UNGEGN Short Country Name
+ демократическаяреспубликаконго                                  | UNGEGN Short Country Name
+ джибути                                                         | UNGEGN Short Country Name
+ доминика                                                        | UNGEGN Short Country Name
+ доминиканскаяреспублика                                         | UNGEGN Short Country Name
+ египет                                                          | UNGEGN Short Country Name
+ замбия                                                          | UNGEGN Short Country Name
+ зимбабве                                                        | UNGEGN Short Country Name
+ израиль                                                         | UNGEGN Short Country Name
+ индия                                                           | UNGEGN Short Country Name
+ индонезия                                                       | UNGEGN Short Country Name
+ иордания                                                        | UNGEGN Short Country Name
+ ирак                                                            | UNGEGN Short Country Name
+ иран                                                            | UNGEGN Short Country Name
+ ирландия                                                        | UNGEGN Short Country Name
+ исландия                                                        | UNGEGN Short Country Name
+ испания                                                         | UNGEGN Short Country Name
+ италия                                                          | UNGEGN Short Country Name
+ йемен                                                           | UNGEGN Short Country Name
+ кабоверде                                                       | UNGEGN Short Country Name
+ казахстан                                                       | UNGEGN Short Country Name
+ камбоджа                                                        | UNGEGN Short Country Name
+ камерун                                                         | UNGEGN Short Country Name
+ канада                                                          | UNGEGN Short Country Name
+ катар                                                           | UNGEGN Short Country Name
+ кения                                                           | UNGEGN Short Country Name
+ кипр                                                            | UNGEGN Short Country Name
+ кирибати                                                        | UNGEGN Short Country Name
+ китай                                                           | UNGEGN Short Country Name
+ колумбия                                                        | UNGEGN Short Country Name
+ коморскиеострова                                                | UNGEGN Short Country Name
+ конго                                                           | UNGEGN Short Country Name
+ корейскаянароднодемократическаяреспублика                       | UNGEGN Short Country Name
+ костарика                                                       | UNGEGN Short Country Name
+ котдивуар                                                       | UNGEGN Short Country Name
+ куба                                                            | UNGEGN Short Country Name
+ кувейт                                                          | UNGEGN Short Country Name
+ кыргызстан                                                      | UNGEGN Short Country Name
+ лаосскаянароднодемократическаяреспублика                        | UNGEGN Short Country Name
+ латвия                                                          | UNGEGN Short Country Name
+ лесото                                                          | UNGEGN Short Country Name
+ либерия                                                         | UNGEGN Short Country Name
+ ливан                                                           | UNGEGN Short Country Name
+ ливия                                                           | UNGEGN Short Country Name
+ литва                                                           | UNGEGN Short Country Name
+ лихтенштейн                                                     | UNGEGN Short Country Name
+ люксембург                                                      | UNGEGN Short Country Name
+ маврикий                                                        | UNGEGN Short Country Name
+ мавритания                                                      | UNGEGN Short Country Name
+ мадагаскар                                                      | UNGEGN Short Country Name
+ малави                                                          | UNGEGN Short Country Name
+ малайзия                                                        | UNGEGN Short Country Name
+ мали                                                            | UNGEGN Short Country Name
+ мальдивскиеострова                                              | UNGEGN Short Country Name
+ мальта                                                          | UNGEGN Short Country Name
+ марокко                                                         | UNGEGN Short Country Name
+ маршалловыострова                                               | UNGEGN Short Country Name
+ мексика                                                         | UNGEGN Short Country Name
+ микронезия                                                      | UNGEGN Short Country Name
+ мозамбик                                                        | UNGEGN Short Country Name
+ монако                                                          | UNGEGN Short Country Name
+ монголия                                                        | UNGEGN Short Country Name
+ мьянма                                                          | UNGEGN Short Country Name
+ намибия                                                         | UNGEGN Short Country Name
+ науру                                                           | UNGEGN Short Country Name
+ непал                                                           | UNGEGN Short Country Name
+ нигер                                                           | UNGEGN Short Country Name
+ нигерия                                                         | UNGEGN Short Country Name
+ нидерланды                                                      | UNGEGN Short Country Name
+ никарагуа                                                       | UNGEGN Short Country Name
+ новаязеландия                                                   | UNGEGN Short Country Name
+ норвегия                                                        | UNGEGN Short Country Name
+ объединеннаяреспубликатанзания                                  | UNGEGN Short Country Name
+ объединенныеарабскиеэмираты                                     | UNGEGN Short Country Name
+ оман                                                            | UNGEGN Short Country Name
+ пакистан                                                        | UNGEGN Short Country Name
+ палау                                                           | UNGEGN Short Country Name
+ панама                                                          | UNGEGN Short Country Name
+ папуановаягвинея                                                | UNGEGN Short Country Name
+ парагвай                                                        | UNGEGN Short Country Name
+ перу                                                            | UNGEGN Short Country Name
+ польша                                                          | UNGEGN Short Country Name
+ португалия                                                      | UNGEGN Short Country Name
+ республикакорея                                                 | UNGEGN Short Country Name
+ республикамолдова                                               | UNGEGN Short Country Name
+ российскаяфедерация                                             | UNGEGN Short Country Name
+ руанда                                                          | UNGEGN Short Country Name
+ румыния                                                         | UNGEGN Short Country Name
+ сальвадор                                                       | UNGEGN Short Country Name
+ самоа                                                           | UNGEGN Short Country Name
+ санмарино                                                       | UNGEGN Short Country Name
+ сантомеипринсипи                                                | UNGEGN Short Country Name
+ саудовскаяаравия                                                | UNGEGN Short Country Name
+ свазиленд                                                       | UNGEGN Short Country Name
+ святойпрестол                                                   | UNGEGN Short Country Name
+ сейшельскиеострова                                              | UNGEGN Short Country Name
+ сенегал                                                         | UNGEGN Short Country Name
+ сентвинсентигренадины                                           | UNGEGN Short Country Name
+ сенткитсиневис                                                  | UNGEGN Short Country Name
+ сентлюсия                                                       | UNGEGN Short Country Name
+ сербия                                                          | UNGEGN Short Country Name
+ сингапур                                                        | UNGEGN Short Country Name
+ сирийскаяарабскаяреспублика                                     | UNGEGN Short Country Name
+ словакия                                                        | UNGEGN Short Country Name
+ словения                                                        | UNGEGN Short Country Name
+ соединенноекоролевствовеликобританииисевернойирландии           | UNGEGN Short Country Name
+ соединенныештатыамерики                                         | UNGEGN Short Country Name
+ соломоновыострова                                               | UNGEGN Short Country Name
+ сомали                                                          | UNGEGN Short Country Name
+ судан                                                           | UNGEGN Short Country Name
+ суринам                                                         | UNGEGN Short Country Name
+ сьерралеоне                                                     | UNGEGN Short Country Name
+ таджикистан                                                     | UNGEGN Short Country Name
+ таиланд                                                         | UNGEGN Short Country Name
+ тиморлешти                                                      | UNGEGN Short Country Name
+ того                                                            | UNGEGN Short Country Name
+ тонга                                                           | UNGEGN Short Country Name
+ тринидадитобаго                                                 | UNGEGN Short Country Name
+ тувалу                                                          | UNGEGN Short Country Name
+ тунис                                                           | UNGEGN Short Country Name
+ туркменистан                                                    | UNGEGN Short Country Name
+ турция                                                          | UNGEGN Short Country Name
+ уганда                                                          | UNGEGN Short Country Name
+ узбекистан                                                      | UNGEGN Short Country Name
+ украина                                                         | UNGEGN Short Country Name
+ уругвай                                                         | UNGEGN Short Country Name
+ фиджи                                                           | UNGEGN Short Country Name
+ филиппины                                                       | UNGEGN Short Country Name
+ финляндия                                                       | UNGEGN Short Country Name
+ франция                                                         | UNGEGN Short Country Name
+ хорватия                                                        | UNGEGN Short Country Name
+ центральноафриканскаяреспублика                                 | UNGEGN Short Country Name
+ чад                                                             | UNGEGN Short Country Name
+ черногория                                                      | UNGEGN Short Country Name
+ чешскаяреспублика                                               | UNGEGN Short Country Name
+ чили                                                            | UNGEGN Short Country Name
+ швейцария                                                       | UNGEGN Short Country Name
+ швеция                                                          | UNGEGN Short Country Name
+ шриланка                                                        | UNGEGN Short Country Name
+ эквадор                                                         | UNGEGN Short Country Name
+ экваториальнаягвинея                                            | UNGEGN Short Country Name
+ эритрея                                                         | UNGEGN Short Country Name
+ эстония                                                         | UNGEGN Short Country Name
+ эфиопия                                                         | UNGEGN Short Country Name
+ южнаяафрика                                                     | UNGEGN Short Country Name
+ южныйсудан                                                      | UNGEGN Short Country Name
+ ямайка                                                          | UNGEGN Short Country Name
+ япония                                                          | UNGEGN Short Country Name
+ 不丹                                                            | UNGEGN Short Country Name
+ 东帝汶                                                          | UNGEGN Short Country Name
+ 中国                                                            | UNGEGN Short Country Name
+ 中非共和国                                                      | UNGEGN Short Country Name
+ 丹麦                                                            | UNGEGN Short Country Name
+ 乌克兰                                                          | UNGEGN Short Country Name
+ 乌兹别克斯坦                                                    | UNGEGN Short Country Name
+ 乌干达                                                          | UNGEGN Short Country Name
+ 乌拉圭                                                          | UNGEGN Short Country Name
+ 乍得                                                            | UNGEGN Short Country Name
+ 也门                                                            | UNGEGN Short Country Name
+ 亚美尼亚                                                        | UNGEGN Short Country Name
+ 以色列                                                          | UNGEGN Short Country Name
+ 伊拉克                                                          | UNGEGN Short Country Name
+ 伊朗                                                            | UNGEGN Short Country Name
+ 伯利兹                                                          | UNGEGN Short Country Name
+ 佛得角                                                          | UNGEGN Short Country Name
+ 俄罗斯联邦                                                      | UNGEGN Short Country Name
+ 保加利亚                                                        | UNGEGN Short Country Name
+ 克罗地亚                                                        | UNGEGN Short Country Name
+ 冈比亚                                                          | UNGEGN Short Country Name
+ 冰岛                                                            | UNGEGN Short Country Name
+ 几内亚                                                          | UNGEGN Short Country Name
+ 几内亚比绍                                                      | UNGEGN Short Country Name
+ 列支敦士登                                                      | UNGEGN Short Country Name
+ 刚果                                                            | UNGEGN Short Country Name
+ 刚果民主共和国                                                  | UNGEGN Short Country Name
+ 利比亚                                                          | UNGEGN Short Country Name
+ 利比里亚                                                        | UNGEGN Short Country Name
+ 前南斯拉夫的马其顿共和国                                        | UNGEGN Short Country Name
+ 加拿大                                                          | UNGEGN Short Country Name
+ 加纳                                                            | UNGEGN Short Country Name
+ 加蓬                                                            | UNGEGN Short Country Name
+ 匈牙利                                                          | UNGEGN Short Country Name
+ 南苏丹                                                          | UNGEGN Short Country Name
+ 南非                                                            | UNGEGN Short Country Name
+ 博茨瓦纳                                                        | UNGEGN Short Country Name
+ 卡塔尔                                                          | UNGEGN Short Country Name
+ 卢旺达                                                          | UNGEGN Short Country Name
+ 卢森堡                                                          | UNGEGN Short Country Name
+ 印度                                                            | UNGEGN Short Country Name
+ 印度尼西亚                                                      | UNGEGN Short Country Name
+ 危地马拉                                                        | UNGEGN Short Country Name
+ 厄瓜多尔                                                        | UNGEGN Short Country Name
+ 厄立特里亚                                                      | UNGEGN Short Country Name
+ 古巴                                                            | UNGEGN Short Country Name
+ 吉尔吉斯斯坦                                                    | UNGEGN Short Country Name
+ 吉布提                                                          | UNGEGN Short Country Name
+ 哈萨克斯坦                                                      | UNGEGN Short Country Name
+ 哥伦比亚                                                        | UNGEGN Short Country Name
+ 哥斯达黎加                                                      | UNGEGN Short Country Name
+ 喀麦隆                                                          | UNGEGN Short Country Name
+ 图瓦卢                                                          | UNGEGN Short Country Name
+ 土库曼斯坦                                                      | UNGEGN Short Country Name
+ 土耳其                                                          | UNGEGN Short Country Name
+ 圣卢西亚                                                        | UNGEGN Short Country Name
+ 圣基茨和尼维斯                                                  | UNGEGN Short Country Name
+ 圣多美和普林西比                                                | UNGEGN Short Country Name
+ 圣文森特和格林纳丁斯                                            | UNGEGN Short Country Name
+ 圣马力诺                                                        | UNGEGN Short Country Name
+ 圭亚那                                                          | UNGEGN Short Country Name
+ 坦桑尼亚联合共和国                                              | UNGEGN Short Country Name
+ 埃及                                                            | UNGEGN Short Country Name
+ 埃塞俄比亚                                                      | UNGEGN Short Country Name
+ 基里巴斯                                                        | UNGEGN Short Country Name
+ 塔吉克斯坦                                                      | UNGEGN Short Country Name
+ 塞内加尔                                                        | UNGEGN Short Country Name
+ 塞尔维亚                                                        | UNGEGN Short Country Name
+ 塞拉利昂                                                        | UNGEGN Short Country Name
+ 塞浦路斯                                                        | UNGEGN Short Country Name
+ 塞舌尔                                                          | UNGEGN Short Country Name
+ 墨西哥                                                          | UNGEGN Short Country Name
+ 多哥                                                            | UNGEGN Short Country Name
+ 多米尼克                                                        | UNGEGN Short Country Name
+ 多米尼加                                                        | UNGEGN Short Country Name
+ 大不列颠及北爱尔兰联合王国                                      | UNGEGN Short Country Name
+ 大韩民国                                                        | UNGEGN Short Country Name
+ 奥地利                                                          | UNGEGN Short Country Name
+ 委内瑞拉                                                        | UNGEGN Short Country Name
+ 孟加拉国                                                        | UNGEGN Short Country Name
+ 安哥拉                                                          | UNGEGN Short Country Name
+ 安提瓜和巴布达                                                  | UNGEGN Short Country Name
+ 安道尔                                                          | UNGEGN Short Country Name
+ 密克罗尼西亚                                                    | UNGEGN Short Country Name
+ 尼加拉瓜                                                        | UNGEGN Short Country Name
+ 尼日利亚                                                        | UNGEGN Short Country Name
+ 尼日尔                                                          | UNGEGN Short Country Name
+ 尼泊尔                                                          | UNGEGN Short Country Name
+ 巴哈马                                                          | UNGEGN Short Country Name
+ 巴基斯坦                                                        | UNGEGN Short Country Name
+ 巴巴多斯                                                        | UNGEGN Short Country Name
+ 巴布亚新几内亚                                                  | UNGEGN Short Country Name
+ 巴拉圭                                                          | UNGEGN Short Country Name
+ 巴拿马                                                          | UNGEGN Short Country Name
+ 巴林                                                            | UNGEGN Short Country Name
+ 巴西                                                            | UNGEGN Short Country Name
+ 布基纳法索                                                      | UNGEGN Short Country Name
+ 布隆迪                                                          | UNGEGN Short Country Name
+ 希腊                                                            | UNGEGN Short Country Name
+ 帕劳                                                            | UNGEGN Short Country Name
+ 德国                                                            | UNGEGN Short Country Name
+ 意大利                                                          | UNGEGN Short Country Name
+ 所罗门群岛                                                      | UNGEGN Short Country Name
+ 拉脱维亚                                                        | UNGEGN Short Country Name
+ 挪威                                                            | UNGEGN Short Country Name
+ 捷克共和国                                                      | UNGEGN Short Country Name
+ 摩尔多瓦共和国                                                  | UNGEGN Short Country Name
+ 摩洛哥                                                          | UNGEGN Short Country Name
+ 摩纳哥                                                          | UNGEGN Short Country Name
+ 教廷                                                            | UNGEGN Short Country Name
+ 文莱达鲁萨兰国                                                  | UNGEGN Short Country Name
+ 斐济                                                            | UNGEGN Short Country Name
+ 斯威士兰                                                        | UNGEGN Short Country Name
+ 斯洛伐克                                                        | UNGEGN Short Country Name
+ 斯洛文尼亚                                                      | UNGEGN Short Country Name
+ 斯里兰卡                                                        | UNGEGN Short Country Name
+ 新加坡                                                          | UNGEGN Short Country Name
+ 新西兰                                                          | UNGEGN Short Country Name
+ 日本                                                            | UNGEGN Short Country Name
+ 智利                                                            | UNGEGN Short Country Name
+ 朝鲜民主主义人民共和国                                          | UNGEGN Short Country Name
+ 柬埔寨                                                          | UNGEGN Short Country Name
+ 格林纳达                                                        | UNGEGN Short Country Name
+ 格鲁吉亚                                                        | UNGEGN Short Country Name
+ 比利时                                                          | UNGEGN Short Country Name
+ 毛里塔尼亚                                                      | UNGEGN Short Country Name
+ 毛里求斯                                                        | UNGEGN Short Country Name
+ 汤加                                                            | UNGEGN Short Country Name
+ 沙特阿拉伯                                                      | UNGEGN Short Country Name
+ 法国                                                            | UNGEGN Short Country Name
+ 波兰                                                            | UNGEGN Short Country Name
+ 波斯尼亚和黑塞哥维那                                            | UNGEGN Short Country Name
+ 泰国                                                            | UNGEGN Short Country Name
+ 津巴布韦                                                        | UNGEGN Short Country Name
+ 洪都拉斯                                                        | UNGEGN Short Country Name
+ 海地                                                            | UNGEGN Short Country Name
+ 澳大利亚                                                        | UNGEGN Short Country Name
+ 爱尔兰                                                          | UNGEGN Short Country Name
+ 爱沙尼亚                                                        | UNGEGN Short Country Name
+ 牙买加                                                          | UNGEGN Short Country Name
+ 特立尼达和多巴哥                                                | UNGEGN Short Country Name
+ 玻利维亚                                                        | UNGEGN Short Country Name
+ 瑙鲁                                                            | UNGEGN Short Country Name
+ 瑞典                                                            | UNGEGN Short Country Name
+ 瑞士                                                            | UNGEGN Short Country Name
+ 瓦努阿图                                                        | UNGEGN Short Country Name
+ 白俄罗斯                                                        | UNGEGN Short Country Name
+ 科威特                                                          | UNGEGN Short Country Name
+ 科摩罗                                                          | UNGEGN Short Country Name
+ 科特迪瓦                                                        | UNGEGN Short Country Name
+ 秘鲁                                                            | UNGEGN Short Country Name
+ 突尼斯                                                          | UNGEGN Short Country Name
+ 立陶宛                                                          | UNGEGN Short Country Name
+ 索马里                                                          | UNGEGN Short Country Name
+ 约旦                                                            | UNGEGN Short Country Name
+ 纳米比亚                                                        | UNGEGN Short Country Name
+ 缅甸                                                            | UNGEGN Short Country Name
+ 罗马尼亚                                                        | UNGEGN Short Country Name
+ 美利坚合众国                                                    | UNGEGN Short Country Name
+ 老挝人民民主共和国                                              | UNGEGN Short Country Name
+ 肯尼亚                                                          | UNGEGN Short Country Name
+ 芬兰                                                            | UNGEGN Short Country Name
+ 苏丹                                                            | UNGEGN Short Country Name
+ 苏里南                                                          | UNGEGN Short Country Name
+ 荷兰                                                            | UNGEGN Short Country Name
+ 莫桑比克                                                        | UNGEGN Short Country Name
+ 莱索托                                                          | UNGEGN Short Country Name
+ 菲律宾                                                          | UNGEGN Short Country Name
+ 萨尔瓦多                                                        | UNGEGN Short Country Name
+ 萨摩亚                                                          | UNGEGN Short Country Name
+ 葡萄牙                                                          | UNGEGN Short Country Name
+ 蒙古                                                            | UNGEGN Short Country Name
+ 西班牙                                                          | UNGEGN Short Country Name
+ 贝宁                                                            | UNGEGN Short Country Name
+ 赤道几内亚                                                      | UNGEGN Short Country Name
+ 越南                                                            | UNGEGN Short Country Name
+ 阿塞拜疆                                                        | UNGEGN Short Country Name
+ 阿富汗                                                          | UNGEGN Short Country Name
+ 阿尔及利亚                                                      | UNGEGN Short Country Name
+ 阿尔巴尼亚                                                      | UNGEGN Short Country Name
+ 阿拉伯叙利亚共和国                                              | UNGEGN Short Country Name
+ 阿拉伯联合酋长国                                                | UNGEGN Short Country Name
+ 阿曼                                                            | UNGEGN Short Country Name
+ 阿根廷                                                          | UNGEGN Short Country Name
+ 马尔代夫                                                        | UNGEGN Short Country Name
+ 马拉维                                                          | UNGEGN Short Country Name
+ 马来西亚                                                        | UNGEGN Short Country Name
+ 马绍尔群岛                                                      | UNGEGN Short Country Name
+ 马耳他                                                          | UNGEGN Short Country Name
+ 马达加斯加                                                      | UNGEGN Short Country Name
+ 马里                                                            | UNGEGN Short Country Name
+ 黎巴嫩                                                          | UNGEGN Short Country Name
+ 黑山                                                            | UNGEGN Short Country Name
+ uzbekistán                                                      | UNGEGN Short Country Name
+ yémen                                                           | UNGEGN Short Country Name
+ zambie                                                          | UNGEGN Short Country Name
+(1992 rows)
+
