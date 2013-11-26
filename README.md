@@ -23,29 +23,34 @@ The list of data sources is as follows:
 <th>ID</th>
 <th>Description</th>
 <th>URL</th>
+<th>Status</th>
 </tr>
 
 <tr>
 <td>RFC.6761</td>
 <td>Special-Use Domain Names</td>
 <td>http://tools.ietf.org/html/rfc6761</td>
+<td>Final</td>
 </tr>
 
 <tr>
 <td>S5.1</td>
 <td>Example</td>
 <td>N/A</td>
+<td>Final</td>
 </tr>
 
 <tr>
 <td>S5.2</td>
 <td>Two-character labels</td>
 <td>N/A</td>
+<td>Final</td>
 </tr>
 
 <tr>
 <td>S5.3.1</td>
 <td>Labels withheld for use in connection with the operation of the registry for the TLD</td>
+<td>N/A</td>
 <td>N/A</td>
 </tr>
 
@@ -53,23 +58,27 @@ The list of data sources is as follows:
 <td>S5.4.1</td>
 <td>The short form (in English) of all country and territory names contained on the ISO 3166-1 list,</td>
 <td>http://www.iso.org/iso/country_codes</td>
+<td>Draft</td>
 </tr>
 
 <tr>
 <td>S5.4.2</td>
 <td>The United Nations Group of Experts on Geographical Names, Technical Reference Manual for the Standardization of Geographical Names, Part III Names of Countries of the World</td>
 <td>http://unstats.un.org/unsd/geoinfo/ungegn/docs/pubs/UNGEGN%20tech%20ref%20manual_m87_combined.pdf</td>
+<td>Draft</td>
 </tr>
 
 <tr>
 <td>S5.4.3</td>
 <td>The list of United Nations member states in 6 official United Nations languages prepared by the Working Group on Country Names of the United Nations Conference on the Standardization of Geographical Names</td>
 <td>http://unstats.un.org/unsd/geoinfo/ungegn/docs/9th-uncsgn-docs/econf/9th_UNCSGN_e-conf-98-89-add1.pdf</td>
+<td>Needed</td>
 </tr>
 
 <tr>
 <td>S5.5</td>
 <td>International Olympic Committee; International Red Cross and Red Crescent Movement</td>
 <td>http://www.icann.org/en/resources/registries/reserved</td>
+<td>Draft</td>
 </tr>
 </table>
