@@ -64,14 +64,14 @@ The list of data sources is as follows:
 <tr>
 <td>S5.4.2</td>
 <td>The United Nations Group of Experts on Geographical Names, Technical Reference Manual for the Standardization of Geographical Names, Part III Names of Countries of the World</td>
-<td>[Link](http://unstats.un.org/unsd/geoinfo/ungegn/docs/pubs/UNGEGN%20tech%20ref%20manual_m87_combined.pdf)</td>
+<td>[1]</td>
 <td>Draft</td>
 </tr>
 
 <tr>
 <td>S5.4.3</td>
 <td>The list of United Nations member states in 6 official United Nations languages prepared by the Working Group on Country Names of the United Nations Conference on the Standardization of Geographical Names</td>
-<td>[Link](http://unstats.un.org/unsd/geoinfo/ungegn/docs/9th-uncsgn-docs/econf/9th_UNCSGN_e-conf-98-89-add1.pdf)</td>
+<td>[2]</td>
 <td>Needed</td>
 </tr>
 
@@ -82,3 +82,10 @@ The list of data sources is as follows:
 <td>Draft</td>
 </tr>
 </table>
+
+References
+----------
+
+\[1\]: http://unstats.un.org/unsd/geoinfo/ungegn/docs/pubs/UNGEGN%20tech%20ref%20manual_m87_combined.pdf
+
+\[2\]: http://unstats.un.org/unsd/geoinfo/ungegn/docs/9th-uncsgn-docs/econf/9th_UNCSGN_e-conf-98-89-add1.pdf
