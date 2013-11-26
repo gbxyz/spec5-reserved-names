@@ -9,14 +9,12 @@ The Registry Agreement does not enumerate all of these names; and ICANN has not 
 
 To mitigate the risk of confusion caused by different Registry Operators each assembling their own list, and to reduce the duplication of work which might arise, this project exists to aggregate and collate data from each of the sources referenced in Specification 5 in a format which can be easily imported into a Registry Operator's SRS database.
 
-Sources
--------
+Data Sources
+------------
 
-Each data source is referenced by a unique ID of the form
+Sources referenced in the Registry Agreementare referenced by a unique ID of the form "S5.N(.M)", where "N(.M)" corresponds to a clause from Specification 5 of the Registry Agreement.
 
-    S5.N
-    
-where "N" corresponds to a clause from Specification 5 of the Registry Agreement.
+Other sources use the appropriate unique ID, e.g. RFC number.
 
 The list of data sources is as follows:
 
@@ -25,6 +23,12 @@ The list of data sources is as follows:
 <th>ID</th>
 <th>Description</th>
 <th>URL</th>
+</tr>
+
+<tr>
+<td>RFC.6761</td>
+<td>Special-Use Domain Names</td>
+<td>http://tools.ietf.org/html/rfc6761</td>
 </tr>
 
 <tr>
