@@ -183,6 +183,7 @@ kyrgyzstan
 lao-people-s-democratic-republic
 lao-peoples-democratic-republic
 laopeoplesdemocraticrepublic
+laos
 latvia
 lebanon
 lesotho
