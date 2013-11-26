@@ -78,7 +78,7 @@ The list of data sources is as follows:
 <tr>
 <td>S5.5</td>
 <td>International Olympic Committee; International Red Cross and Red Crescent Movement</td>
-<td>http://www.icann.org/en/resources/registries/reserved</td>
+<td>[3]</td>
 <td>Draft</td>
 </tr>
 </table>
@@ -89,3 +89,5 @@ References
 \[1\]: http://unstats.un.org/unsd/geoinfo/ungegn/docs/pubs/UNGEGN%20tech%20ref%20manual_m87_combined.pdf
 
 \[2\]: http://unstats.un.org/unsd/geoinfo/ungegn/docs/9th-uncsgn-docs/econf/9th_UNCSGN_e-conf-98-89-add1.pdf
+
+\[3\]: http://www.icann.org/en/resources/registries/reserved
