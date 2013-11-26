@@ -35,6 +35,8 @@ bolivarian-republic-of-venezuela
 bolivarianrepublicofvenezuela
 bolivia
 bonaire
+bonaire-sint-eustatius-and-saba
+bonairesinteustatiusandsaba
 bosnia-and-herzegovina
 bosniaandherzegovina
 botswana
@@ -66,7 +68,9 @@ china
 christmas-island
 christmasisland
 cocos-islands
+cocos-keeling-islands
 cocosislands
+cocoskeelingislands
 colombia
 comoros
 congo
@@ -80,11 +84,14 @@ curaçao
 cyprus
 czech-republic
 czechrepublic
+côte-d-ivoire
 côte-divoire
 côtedivoire
 democratic-people-s-republic-of-korea
 democratic-peoples-republic-of-korea
+democratic-republic-of-the-congo
 democraticpeoplesrepublicofkorea
+democraticrepublicofthecongo
 denmark
 djibouti
 dominica
@@ -103,7 +110,9 @@ ethiopia
 european-union
 europeanunion
 falkland-islands
+falkland-islands-malvinas
 falklandislands
+falklandislandsmalvinas
 faroe-islands
 faroeislands
 federated-states-of-micronesia
@@ -134,12 +143,15 @@ guatemala
 guernsey
 guinea
 guinea-bissau
+guineabissau
 guyana
 haiti
 heard-island-and-mcdonald-islands
 heardislandandmcdonaldislands
 holy-see
+holy-see-vatican-city-state
 holysee
+holyseevaticancitystate
 honduras
 hong-kong
 hongkong
@@ -252,6 +264,7 @@ rwanda
 réunion
 saint-barthélemy
 saint-helena
+saint-helena-ascension-and-tristan-da-cunha
 saint-kitts-and-nevis
 saint-lucia
 saint-martin
@@ -259,6 +272,7 @@ saint-pierre-and-miquelon
 saint-vincent-and-the-grenadines
 saintbarthélemy
 sainthelena
+sainthelenaascensionandtristandacunha
 saintkittsandnevis
 saintlucia
 saintmartin
@@ -307,6 +321,8 @@ switzerland
 syrian-arab-republic
 syrianarabrepublic
 taiwan
+taiwan-province-of-china
+taiwanprovinceofchina
 tajikistan
 tanzania
 thailand
@@ -315,6 +331,7 @@ the-former-yugoslav-republic-of-macedonia
 thedemocraticrepublicofthecongo
 theformeryugoslavrepublicofmacedonia
 timor-leste
+timorleste
 togo
 tokelau
 tonga
