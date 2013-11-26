@@ -1,0 +1,7 @@
+# nic is included here although the RA requires that it be activated in 
+# the DNS.
+www
+whois
+rdds
+nic
+

@@ -1,29 +1,8 @@
-RA S5 C1:
-example
-
-RA S5 C2:
-Comment: It is assumed that registry operators will meet this
-Comment: requirement by having a lower limit rather than inserting all
-Comment: 2-character names into their database.
-
-RA S5 C3.1:
-Comment: nic is included here although the RA requires that it be
-Comment: activated in the DNS.
-www
-whois
-rdds
-nic
-
-RA S5 C4.1 (ISO 3166) <http://www.iso.org/iso/home/standards/country_codes.htm>:
-Comment: This section includes U-labels which must be encoded to
-Comment: A-labels.
-Comment: Anything appearing after a comma has been discarded.
-Comment: Where a synonym is listed, a separate entry has been added.
-Comment: Where a name contains spaces, an additional hyphenated entry
-Comment: has been added.
+# This section includes U-labels which must be encoded to A-labels. 
+# Anything appearing after a comma has been discarded. Where a synonym 
+# is listed, a separate entry has been added. Where a name contains 
+# spaces, an additional hyphenated entry has been added.
 afghanistan
-åland-islands
-ålandislands
 albania
 algeria
 american-samoa
@@ -37,6 +16,8 @@ antiguaandbarbuda
 argentina
 armenia
 aruba
+ascension-and-tristan-da-cunha-saint-helena
+ascensionandtristandacunhasainthelena
 australia
 austria
 azerbaijan
@@ -50,6 +31,8 @@ belize
 benin
 bermuda
 bhutan
+bolivarian-republic-of-venezuela
+bolivarianrepublicofvenezuela
 bolivia
 bonaire
 bosnia-and-herzegovina
@@ -59,7 +42,9 @@ bouvet-island
 bouvetisland
 brazil
 british-indian-ocean-territory
+british-virgin-islands
 britishindianoceanterritory
+britishvirginislands
 brunei-darussalam
 bruneidarussalam
 bulgaria
@@ -82,24 +67,24 @@ christmas-island
 christmasisland
 cocos-islands
 cocosislands
-keeling-islands
-keelingislands
 colombia
 comoros
-congo
 congo
 cook-islands
 cookislands
 costa-rica
 costarica
-côte-d'ivoire
-côted'ivoire
 croatia
 cuba
 curaçao
 cyprus
 czech-republic
 czechrepublic
+côte-divoire
+côtedivoire
+democratic-people-s-republic-of-korea
+democratic-peoples-republic-of-korea
+democraticpeoplesrepublicofkorea
 denmark
 djibouti
 dominica
@@ -107,6 +92,7 @@ dominican-republic
 dominicanrepublic
 ecuador
 egypt
+eire
 el-salvador
 elsalvador
 equatorial-guinea
@@ -114,19 +100,24 @@ equatorialguinea
 eritrea
 estonia
 ethiopia
+european-union
+europeanunion
 falkland-islands
 falklandislands
-malvinas
 faroe-islands
 faroeislands
+federated-states-of-micronesia
+federatedstatesofmicronesia
 fiji
 finland
+former-yugoslav-republic-of-macedonia
+formeryugoslavrepublicofmacedonia
 france
 french-guiana
-frenchguiana
 french-polynesia
-frenchpolynesia
 french-southern-territories
+frenchguiana
+frenchpolynesia
 frenchsouthernterritories
 gabon
 gambia
@@ -149,7 +140,6 @@ heard-island-and-mcdonald-islands
 heardislandandmcdonaldislands
 holy-see
 holysee
-vatican
 honduras
 hong-kong
 hongkong
@@ -160,6 +150,8 @@ indonesia
 iran
 iraq
 ireland
+islamic-republic-of-iran
+islamicrepublicofiran
 isle-of-man
 isleofman
 israel
@@ -169,14 +161,16 @@ japan
 jersey
 jordan
 kazakhstan
+keeling-islands
+keelingislands
 kenya
 kiribati
 korea
-korea
 kuwait
 kyrgyzstan
-lao-people's-democratic-republic
-laopeople'sdemocraticrepublic
+lao-people-s-democratic-republic
+lao-peoples-democratic-republic
+laopeoplesdemocraticrepublic
 latvia
 lebanon
 lesotho
@@ -193,6 +187,7 @@ malaysia
 maldives
 mali
 malta
+malvinas
 marshall-islands
 marshallislands
 martinique
@@ -214,8 +209,8 @@ nauru
 nepal
 netherlands
 new-caledonia
-newcaledonia
 new-zealand
+newcaledonia
 newzealand
 nicaragua
 niger
@@ -237,29 +232,37 @@ paraguay
 peru
 philippines
 pitcairn
+plurinational-state-of-bolivia
+plurinationalstateofbolivia
 poland
 portugal
+province-of-china-taiwan
+provinceofchinataiwan
 puerto-rico
 puertorico
 qatar
-réunion
+republic-of-korea
+republic-of-moldova
+republicofkorea
+republicofmoldova
 romania
 russian-federation
 russianfederation
 rwanda
+réunion
 saint-barthélemy
-saintbarthélemy
 saint-helena
-sainthelena
 saint-kitts-and-nevis
-saintkittsandnevis
 saint-lucia
-saintlucia
 saint-martin
-saintmartin
 saint-pierre-and-miquelon
-saintpierreandmiquelon
 saint-vincent-and-the-grenadines
+saintbarthélemy
+sainthelena
+saintkittsandnevis
+saintlucia
+saintmartin
+saintpierreandmiquelon
 saintvincentandthegrenadines
 samoa
 san-marino
@@ -274,7 +277,9 @@ seychelles
 sierra-leone
 sierraleone
 singapore
+sint-eustatius-and-saba-bonaire
 sint-maarten
+sinteustatiusandsababonaire
 sintmaarten
 slovakia
 slovenia
@@ -282,14 +287,16 @@ solomon-islands
 solomonislands
 somalia
 south-africa
-southafrica
 south-georgia-and-the-south-sandwich-islands
-southgeorgiaandthesouthsandwichislands
 south-sudan
+southafrica
+southgeorgiaandthesouthsandwichislands
 southsudan
 spain
 sri-lanka
 srilanka
+state-of-palestine
+stateofpalestine
 sudan
 suriname
 svalbard-and-jan-mayen
@@ -303,6 +310,10 @@ taiwan
 tajikistan
 tanzania
 thailand
+the-democratic-republic-of-the-congo
+the-former-yugoslav-republic-of-macedonia
+thedemocraticrepublicofthecongo
+theformeryugoslavrepublicofmacedonia
 timor-leste
 togo
 tokelau
@@ -315,24 +326,30 @@ turkmenistan
 turks-and-caicos-islands
 turksandcaicosislands
 tuvalu
+u-s-virgin-islands
 uganda
 ukraine
 united-arab-emirates
-unitedarabemirates
 united-kingdom
-unitedkingdom
+united-republic-of-tanzania
 united-states
-unitedstates
 united-states-minor-outlying-islands
+unitedarabemirates
+unitedkingdom
+unitedrepublicoftanzania
+unitedstates
 unitedstatesminoroutlyingislands
 uruguay
+us-virgin-islands
+usvirginislands
 uzbekistan
 vanuatu
+vatican
+vatican-city-state
+vaticancitystate
 venezuela
 viet-nam
 vietnam
-virgin-islands
-virginislands
 virgin-islands
 virginislands
 wallis-and-futuna
@@ -340,13 +357,8 @@ wallisandfutuna
 western-sahara
 westernsahara
 yemen
+yugoslav
 zambia
 zimbabwe
-european-union
-europeanunion
-
-RA S5 C4.2 <http://unstats.un.org/unsd/geoinfo/ungegn/docs/pubs/UNGEGN%20tech%20ref%20manual_m87_combined.pdf>:
-
-RA S5 C4.3 <http://unstats.un.org/unsd/geoinfo/ungegn/docs/9th-uncsgn-docs/econf/9th_UNCSGN_e-conf-98-89-add1.pdf>:
-
-RA S5 C4.3 <http://www.icann.org/sites/default/files/packages/reserved-names/ReservedNames.xml>:
+åland-islands
+ålandislands
