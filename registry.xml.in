@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?oxygen RNGSchema="reservedNames.rng" type="xml"?>
+<registry xmlns="http://www.iana.org/assignments" id="reservedNames">
+  <title>Reserved Names for new gTLDs</title>
+  <created>2013-07-03</created>
+  <created>2013-11-27</created>
+  <note>See https://github.com/centralnic/spec5-reserved-names</note>
+
+  <registry id="rfc.6761">
+    <title>Special-Use Domain Names</title>
+    <xref type="uri" data="" />
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.1">
+    <title>Example</title>
+    <xref type="uri" data="http://newgtlds.icann.org/en/applicants/agb/agreement-approved-20nov13-en.pdf" />
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.2">
+    <title>Two-character labels</title>
+    <xref type="uri" data="http://newgtlds.icann.org/en/applicants/agb/agreement-approved-20nov13-en.pdf" />
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.3.1">
+    <title>Labels withheld for use in connection with the operation of the registry for the TLD</title>
+    <xref type="uri" data="http://newgtlds.icann.org/en/applicants/agb/agreement-approved-20nov13-en.pdf" />
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.4.1">
+    <title>The short form (in English) of all country and territory names contained on the ISO 3166-1 list</title>
+    <xref type="uri" data="http://www.iso.org/iso/country_codes" />
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.4.2">
+    <title>The United Nations Group of Experts on Geographical Names, Technical Reference Manual for the Standardization of Geographical Names, Part III Names of Countries of the World</title>
+    <xref type="uri" data="http://unstats.un.org/unsd/geoinfo/ungegn/docs/pubs/UNGEGN%20tech%20ref%20manual_m87_combined.pdf" />
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.4.3">
+    <title>The list of United Nations member states in 6 official United Nations languages prepared by the Working Group on Country Names of the United Nations Conference on the Standardization of Geographical Names</title>
+    <xref type="uri" data="http://unstats.un.org/unsd/geoinfo/ungegn/docs/9th-uncsgn-docs/econf/9th_UNCSGN_e-conf-98-89-add1.pdf" />
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.5-ioc">
+    <title>International Olympic Committee</title>
+    <xref type="uri" data="http://www.icann.org/en/resources/registries/reserved" />
+    <registration_rule>Not defined by an RFC, assigned by ICANN</registration_rule>
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.5-red-cross">
+    <title>International Red Cross and Red Crescent Movement</title>
+    <xref type="uri" data="http://www.icann.org/en/resources/registries/reserved" />
+    <registration_rule>Not defined by an RFC, assigned by ICANN</registration_rule>
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.6">
+    <title>Intergovernmental Organizations</title>
+    <xref type="uri" data="http://www.icann.org/en/resources/registries/reserved" />
+    <registration_rule>Not defined by an RFC, assigned by ICANN</registration_rule>
+    <description>Reservation at second level</description>
+  </registry>
+
+  <people />
+
+</registry>
