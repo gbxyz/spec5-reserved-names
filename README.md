@@ -56,8 +56,8 @@ The list of data sources is as follows:
 
 <tr>
 <td>S5.4.1</td>
-<td>The short form (in English) of all country and territory names contained on the ISO 3166-1 list,</td>
-<td>http://www.iso.org/iso/country_codes</td>
+<td>The short form (in English) of all country and territory names contained on the ISO 3166-1 list</td>
+<td>[0]</td>
 <td>Draft</td>
 </tr>
 
@@ -92,6 +92,8 @@ The list of data sources is as follows:
 
 References
 ----------
+
+\[0\]: http://www.iso.org/iso/country_codes
 
 \[1\]: http://unstats.un.org/unsd/geoinfo/ungegn/docs/pubs/UNGEGN%20tech%20ref%20manual_m87_combined.pdf
 
