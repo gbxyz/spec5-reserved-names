@@ -1,5 +1,7 @@
 <?php
 
+// generate an XML registry file from plain text files using a template
+
 require('Net/IDNA2.php');
 
 $idn = new Net_IDNA2;
