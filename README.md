@@ -72,7 +72,7 @@ The list of data sources is as follows:
 <td>S5.4.3</td>
 <td>The list of United Nations member states in 6 official United Nations languages prepared by the Working Group on Country Names of the United Nations Conference on the Standardization of Geographical Names</td>
 <td>[2]</td>
-<td>Needed</td>
+<td>Draft</td>
 </tr>
 
 <tr>
