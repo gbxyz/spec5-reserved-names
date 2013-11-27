@@ -77,7 +77,14 @@ The list of data sources is as follows:
 
 <tr>
 <td>S5.5</td>
-<td>International Olympic Committee; International Red Cross and Red Crescent Movement (also includes a list of other Intergovernmental Organizations)</td>
+<td>International Olympic Committee; International Red Cross and Red Crescent Movement</td>
+<td>[3]</td>
+<td>Draft</td>
+</tr>
+
+<tr>
+<td>S5.6</td>
+<td>Intergovernmental Organizations</td>
 <td>[3]</td>
 <td>Draft</td>
 </tr>
