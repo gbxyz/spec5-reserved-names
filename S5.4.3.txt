@@ -191,7 +191,6 @@
 يمني
 زامبيا
 زيمبابوي
-
 afghanistan
 albania
 algeria
@@ -385,7 +384,6 @@ vietnam
 yemen
 zambia
 zimbabwe
-
 afganistán
 albania
 argelia
@@ -579,7 +577,6 @@ vietnam
 yemen
 zambia
 zimbabue
-
 afghanistan
 albanie
 algérie
@@ -773,7 +770,6 @@ vietnam
 yémen
 zambie
 zimbabwe
-
 афганистан
 албания
 алжир
@@ -967,7 +963,6 @@ zimbabwe
 йемен
 замбия
 зимбабве
-
 阿富汗
 阿尔巴尼亚
 阿尔及利亚
@@ -1161,7 +1156,6 @@ zimbabwe
 也门
 赞比亚
 津巴布韦
-
 阿富汗
 阿爾巴尼亞
 阿爾及利亞
@@ -1355,4 +1349,3 @@ zimbabwe
 也門
 贊比亞
 津巴布韋
-
