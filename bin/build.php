@@ -14,12 +14,12 @@ for ($i = 0 ; $i < $registries->length ; $i++) {
 	$file = $registry->getAttribute('id').'.txt';
 	if (!file_exists($file)) continue;
 
-	$lines = file($file);
+	$lines = array_map('trim', file($file));
 	foreach ($lines as $line) {
-		if (preg_match('/#/', $line)) continue;
+		if (empty($line) || preg_match('/#/', $line)) continue;
 		$record = $doc->createElement('record');
-		$name = $doc->createElement('name', trim($line));
-		$label = $doc->createElement('label', $idn->encode(trim($line)));
+		$name = $doc->createElement('name', $line);
+		$label = $doc->createElement('label', $idn->encode($line));
 		$record->appendChild($name);
 		$record->appendChild($label);
 		$registry->appendChild($record);
