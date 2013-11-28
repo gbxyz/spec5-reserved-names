@@ -16,7 +16,8 @@ for ($i = 0 ; $i < $registries->length ; $i++) {
 
 	$lines = array_map('trim', file($file));
 	foreach ($lines as $line) {
-		if (empty($line) || preg_match('/#/', $line)) continue;
+		$line = preg_replace('/\s*#.*/', '', $line);
+		if (empty($line)) continue;
 		$record = $doc->createElement('record');
 		$name = $doc->createElement('name', $line);
 		$label = $doc->createElement('label', $idn->encode($line));
