@@ -86,8 +86,23 @@ public class UniqueUnion {
 		String input = aString;
 		input = input.trim();
 		input = input.replaceFirst("#.*", "");
-		input = input.toLowerCase();
+		input = toLowerCaseAscii(input);
 		return input.length() > 0 ? input : null;
+	}
+
+	/**
+	 * Lowercase only the Basic Latin alphabet to preserve utf-8.
+	 * @param aString The String to be lowercased.
+	 * @return The lowercase String.
+	 */
+	static private String toLowerCaseAscii(String aString) {
+		StringBuilder out = new StringBuilder();
+		int diff = 'a' - 'A';
+		for (char c : aString.toCharArray()) {
+			if (c >= 'A' && c <= 'Z') out.append(c + diff);
+			else out.append(c);
+		}
+		return out.toString();
 	}
 
 	/**
