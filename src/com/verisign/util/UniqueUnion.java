@@ -84,8 +84,8 @@ public class UniqueUnion {
 	 */
 	static private String normalize(String aString) {
 		String input = aString;
+		input = input.replaceFirst("\\s*#.*", "");
 		input = input.trim();
-		input = input.replaceFirst("#.*", "");
 		input = toLowerCaseAscii(input);
 		return input.length() > 0 ? input : null;
 	}
@@ -97,10 +97,9 @@ public class UniqueUnion {
 	 */
 	static private String toLowerCaseAscii(String aString) {
 		StringBuilder out = new StringBuilder();
-		int diff = 'a' - 'A';
 		for (char c : aString.toCharArray()) {
-			if (c >= 'A' && c <= 'Z') out.append(c + diff);
-			else out.append(c);
+			if (c >= 'A' && c <= 'Z') c = Character.toLowerCase(c);
+			out.append(c);
 		}
 		return out.toString();
 	}
