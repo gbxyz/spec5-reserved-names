@@ -301,6 +301,7 @@ marshallislands
 mauritania
 mauritius
 mexico
+méxico
 micronesia
 monaco
 mongolia
