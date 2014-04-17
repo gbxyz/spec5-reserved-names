@@ -43,12 +43,13 @@ public class UniqueUnion {
 		static final String outDir = "data/" + fileFormat.format(new Date());
 		static final String outLabel = "ALabel";
 		static final String outExt = "txt";
+		static final String mergeDir = "final";
 		static final String mergeName = "ReservedNames";
 		static final String mergeLabel = fileFormat.format(new Date());
-		static final String mergeExt = "out";
+		static final String mergeExt = "txt";
 		static final String binDir = "bin";
 		static final String TwoCharacterLabels = "S5.2.txt";
-		static final String readmeFile = "# Readme.log";
+		static final String readmeFile = "# Readme.txt";
 		static final String readmeContent = ""
 				+ "# Warning: Do Not Edit!\n"
 				+ "#          The files in this directory are generated from the 'source' files\n"
@@ -102,6 +103,8 @@ public class UniqueUnion {
 		 */
 		File outDir = new File(root, Config.outDir);
 		outDir.mkdirs();
+		File mergeDir = new File(root, Config.mergeDir);
+		mergeDir.mkdirs();
 
 		/**
 		 * For each file, normalize and add to the unique list
@@ -139,15 +142,15 @@ public class UniqueUnion {
 		 */
 		String outfilename = Config.mergeName;
 		outfilename += "." + Config.mergeLabel;
-		outfilename += "." + Config.outExt;
-		File outfile = new File(outDir, outfilename);
+		outfilename += "." + Config.mergeExt;
+		File outfile = new File(mergeDir, outfilename);
 		writeFile(outfile, toString(uniqueList));
 
 		/**
-		 * Write readme file
+		 * Write readme files
 		 */
-		File readmefile = new File(outDir, Config.readmeFile);
-		writeFile(readmefile, Config.readmeContent);
+		writeFile(new File(outDir, Config.readmeFile), Config.readmeContent);
+		writeFile(new File(mergeDir, Config.readmeFile), Config.readmeContent);
 	}
 
 	/**
