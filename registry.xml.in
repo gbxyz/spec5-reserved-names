@@ -55,8 +55,22 @@
     <description>Reservation at second level</description>
   </registry>
 
+  <registry id="s5.5-igos">
+    <title>Intergovernmental Organizations</title>
+    <xref type="uri" data="http://www.icann.org/en/resources/registries/reserved" />
+    <registration_rule>Not defined by an RFC, assigned by ICANN</registration_rule>
+    <description>Reservation at second level</description>
+  </registry>
+
   <registry id="s5.5-red-cross">
-    <title>International Red Cross and Red Crescent Movement</title>
+    <title>International Red Cross and Red Crescent Movement - National Red Cross and Red Crescent Societies Names</title>
+    <xref type="uri" data="http://www.icann.org/en/resources/registries/reserved" />
+    <registration_rule>Not defined by an RFC, assigned by ICANN</registration_rule>
+    <description>Reservation at second level</description>
+  </registry>
+
+  <registry id="s5.5-red-cross-international">
+    <title>International Red Cross and Red Crescent Movement - International Committee of the Red Cross and International Federation of the Red Cross and Red Crescent Societies Names</title>
     <xref type="uri" data="http://www.icann.org/en/resources/registries/reserved" />
     <registration_rule>Not defined by an RFC, assigned by ICANN</registration_rule>
     <description>Reservation at second level</description>
