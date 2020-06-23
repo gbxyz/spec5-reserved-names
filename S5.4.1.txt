@@ -53,6 +53,8 @@ bulgaria
 burkina-faso
 burkinafaso
 burundi
+cabo-verde
+caboverde
 cambodia
 cameroon
 canada
@@ -82,6 +84,7 @@ croatia
 cuba
 curaçao
 cyprus
+czechia
 czech-republic
 czechrepublic
 côte-d-ivoire
@@ -286,6 +289,7 @@ san-marino
 sanmarino
 sao-tome-and-principe
 saotomeandprincipe
+sark
 saudi-arabia
 saudiarabia
 senegal
@@ -351,8 +355,13 @@ uganda
 ukraine
 united-arab-emirates
 united-kingdom
+united-kingdom-of-great-britain-and-northern-ireland
+unitedkingdomofgreatbritainandnorthernireland
 united-republic-of-tanzania
 united-states
+united-states-of-america
+unitedstatesofamerica
+
 united-states-minor-outlying-islands
 unitedarabemirates
 unitedkingdom
