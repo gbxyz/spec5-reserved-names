@@ -2,6 +2,9 @@
 # Anything appearing after a comma has been discarded. Where a synonym 
 # is listed, a separate entry has been added. Where a name contains 
 # spaces, an additional hyphenated entry has been added.
+
+# source for this data: https://datahub.io/core/country-codes#data which mimics the ISO 3166-1 list
+
 afghanistan
 albania
 algeria
